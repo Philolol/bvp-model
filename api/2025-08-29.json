@@ -1,58 +1,8 @@
 {
   "date": "2025-08-29",
   "gamesAnalyzed": 15,
-  "hitterCount": 121,
+  "hitterCount": 124,
   "hitters": [
-    {
-      "id": 518692,
-      "name": "Freddie Freeman",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518692/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 668678,
-        "name": "Zac Gallen",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668678/headshot/67/current",
-        "hitsPer9Inn": 8.77,
-        "hitsPer9Inn_site": 8.84,
-        "hitsPer9Inn_last_28_days": 8.38,
-        "hitsPer9Inn_vs_batter_side": 9.94
-      },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.3,
-      "ops_vs_pitcher": {
-        "ab": 22,
-        "ops": 0.897
-      },
-      "wtb_percent": 0.267,
-      "season_pa": 510,
-      "ops_site": {
-        "pa": 254,
-        "ops": 0.871
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 377,
-        "ops": 0.891
-      },
-      "ops_last_7_days": {
-        "pa": 20,
-        "ops": 0.984
-      },
-      "score": 82,
-      "h2h_share": 0.18395,
-      "score_breakdown": {
-        "wtb": 28,
-        "h9_side": 4,
-        "h9_28": 1,
-        "ops_hand": 11,
-        "ops_site": 4,
-        "last7": 9,
-        "opp": 7,
-        "h2h": 18
-      },
-      "gamePk": 776534,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Los Angeles Dodgers",
-      "probablePitcherName": "Zac Gallen"
-    },
     {
       "id": 650490,
       "name": "Yandy Díaz",
@@ -61,9 +11,9 @@
         "id": 680730,
         "name": "Mitchell Parker",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680730/headshot/67/current",
-        "hitsPer9Inn": 9.94,
-        "hitsPer9Inn_site": 10.59,
-        "hitsPer9Inn_last_28_days": 12.75,
+        "hitsPer9Inn": 9.87,
+        "hitsPer9Inn_site": 10.45,
+        "hitsPer9Inn_last_28_days": 12.24,
         "hitsPer9Inn_vs_batter_side": 9.91
       },
       "projectedBattingOrder": 3,
@@ -104,6 +54,56 @@
       "probablePitcherName": "Mitchell Parker"
     },
     {
+      "id": 518692,
+      "name": "Freddie Freeman",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518692/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 668678,
+        "name": "Zac Gallen",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668678/headshot/67/current",
+        "hitsPer9Inn": 8.77,
+        "hitsPer9Inn_site": 8.84,
+        "hitsPer9Inn_last_28_days": 8.38,
+        "hitsPer9Inn_vs_batter_side": 9.94
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.3,
+      "ops_vs_pitcher": {
+        "ab": 3,
+        "ops": 0.666
+      },
+      "wtb_percent": 0.267,
+      "season_pa": 510,
+      "ops_site": {
+        "pa": 254,
+        "ops": 0.871
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 377,
+        "ops": 0.891
+      },
+      "ops_last_7_days": {
+        "pa": 20,
+        "ops": 0.984
+      },
+      "score": 78,
+      "h2h_share": 0.1133,
+      "score_breakdown": {
+        "wtb": 29,
+        "h9_side": 4,
+        "h9_28": 1,
+        "ops_hand": 12,
+        "ops_site": 5,
+        "last7": 9,
+        "opp": 7,
+        "h2h": 11
+      },
+      "gamePk": 776534,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Los Angeles Dodgers",
+      "probablePitcherName": "Zac Gallen"
+    },
+    {
       "id": 609280,
       "name": "Miguel Andujar",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/609280/headshot/67/current",
@@ -111,9 +111,9 @@
         "id": 669461,
         "name": "Matthew Liberatore",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
-        "hitsPer9Inn": 9.47,
-        "hitsPer9Inn_site": 9.13,
-        "hitsPer9Inn_last_28_days": 9.89,
+        "hitsPer9Inn": 9.42,
+        "hitsPer9Inn_site": 9.04,
+        "hitsPer9Inn_last_28_days": 9.59,
         "hitsPer9Inn_vs_batter_side": 9.27
       },
       "projectedBattingOrder": 4,
@@ -122,21 +122,21 @@
         "ab": 3,
         "ops": 2.667
       },
-      "wtb_percent": 0.288,
-      "season_pa": 295,
+      "wtb_percent": 0.287,
+      "season_pa": 296,
       "ops_site": {
-        "pa": 145,
-        "ops": 0.831
+        "pa": 146,
+        "ops": 0.825
       },
       "ops_vs_pitcher_hand": {
         "pa": 70,
         "ops": 0.967
       },
       "ops_last_7_days": {
-        "pa": 12,
-        "ops": 0.633
+        "pa": 13,
+        "ops": 0.581
       },
-      "score": 78,
+      "score": 77,
       "h2h_share": 0.16,
       "score_breakdown": {
         "wtb": 30,
@@ -144,7 +144,7 @@
         "h9_28": 2,
         "ops_hand": 13,
         "ops_site": 4,
-        "last7": 4,
+        "last7": 3,
         "opp": 6,
         "h2h": 16
       },
@@ -152,106 +152,6 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Matthew Liberatore"
-    },
-    {
-      "id": 607208,
-      "name": "Trea Turner",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607208/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 693821,
-        "name": "Bryce Elder",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
-        "hitsPer9Inn": 10.1,
-        "hitsPer9Inn_site": 8.7,
-        "hitsPer9Inn_last_28_days": 7.91,
-        "hitsPer9Inn_vs_batter_side": 11.51
-      },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.49,
-      "ops_vs_pitcher": {
-        "ab": 5,
-        "ops": 1.825
-      },
-      "wtb_percent": 0.275,
-      "season_pa": 601,
-      "ops_site": {
-        "pa": 292,
-        "ops": 0.786
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 409,
-        "ops": 0.808
-      },
-      "ops_last_7_days": {
-        "pa": 33,
-        "ops": 0.648
-      },
-      "score": 78,
-      "h2h_share": 0.18,
-      "score_breakdown": {
-        "wtb": 30,
-        "h9_side": 5,
-        "h9_28": 1,
-        "ops_hand": 9,
-        "ops_site": 3,
-        "last7": 4,
-        "opp": 8,
-        "h2h": 18
-      },
-      "gamePk": 776552,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Philadelphia Phillies",
-      "probablePitcherName": "Bryce Elder"
-    },
-    {
-      "id": 677951,
-      "name": "Bobby Witt Jr.",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677951/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 663978,
-        "name": "Chris Paddack",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
-        "hitsPer9Inn": 9.24,
-        "hitsPer9Inn_site": 9.4,
-        "hitsPer9Inn_last_28_days": 10.18,
-        "hitsPer9Inn_vs_batter_side": 10.18
-      },
-      "projectedBattingOrder": 2,
-      "projected_pa": 4.4,
-      "ops_vs_pitcher": {
-        "ab": 2,
-        "ops": 0
-      },
-      "wtb_percent": 0.269,
-      "season_pa": 577,
-      "ops_site": {
-        "pa": 280,
-        "ops": 0.839
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 461,
-        "ops": 0.846
-      },
-      "ops_last_7_days": {
-        "pa": 27,
-        "ops": 0.87
-      },
-      "score": 78,
-      "h2h_share": 0.12,
-      "score_breakdown": {
-        "wtb": 30,
-        "h9_side": 4,
-        "h9_28": 2,
-        "ops_hand": 11,
-        "ops_site": 4,
-        "last7": 7,
-        "opp": 8,
-        "h2h": 12
-      },
-      "gamePk": 776540,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Kansas City Royals",
-      "probablePitcherName": "Chris Paddack"
     },
     {
       "id": 682985,
@@ -302,6 +202,56 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "Detroit Tigers",
       "probablePitcherName": "Seth Lugo"
+    },
+    {
+      "id": 677951,
+      "name": "Bobby Witt Jr.",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677951/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 663978,
+        "name": "Chris Paddack",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
+        "hitsPer9Inn": 9.24,
+        "hitsPer9Inn_site": 9.4,
+        "hitsPer9Inn_last_28_days": 10.18,
+        "hitsPer9Inn_vs_batter_side": 10.18
+      },
+      "projectedBattingOrder": 2,
+      "projected_pa": 4.4,
+      "ops_vs_pitcher": {
+        "ab": 7,
+        "ops": 0.715
+      },
+      "wtb_percent": 0.269,
+      "season_pa": 577,
+      "ops_site": {
+        "pa": 280,
+        "ops": 0.839
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 461,
+        "ops": 0.846
+      },
+      "ops_last_7_days": {
+        "pa": 27,
+        "ops": 0.87
+      },
+      "score": 77,
+      "h2h_share": 0.10874999999999999,
+      "score_breakdown": {
+        "wtb": 29,
+        "h9_side": 5,
+        "h9_28": 2,
+        "ops_hand": 11,
+        "ops_site": 4,
+        "last7": 7,
+        "opp": 8,
+        "h2h": 11
+      },
+      "gamePk": 776540,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Kansas City Royals",
+      "probablePitcherName": "Chris Paddack"
     },
     {
       "id": 701762,
@@ -361,9 +311,9 @@
         "id": 642547,
         "name": "Freddy Peralta",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
-        "hitsPer9Inn": 6.42,
-        "hitsPer9Inn_site": 6.3,
-        "hitsPer9Inn_last_28_days": 3.91,
+        "hitsPer9Inn": 6.41,
+        "hitsPer9Inn_site": 6.28,
+        "hitsPer9Inn_last_28_days": 4.01,
         "hitsPer9Inn_vs_batter_side": 5.86
       },
       "projectedBattingOrder": 4,
@@ -372,19 +322,19 @@
         "ab": 3,
         "ops": 1.666
       },
-      "wtb_percent": 0.286,
-      "season_pa": 591,
+      "wtb_percent": 0.285,
+      "season_pa": 592,
       "ops_site": {
-        "pa": 278,
-        "ops": 0.907
+        "pa": 279,
+        "ops": 0.904
       },
       "ops_vs_pitcher_hand": {
         "pa": 458,
         "ops": 0.813
       },
       "ops_last_7_days": {
-        "pa": 27,
-        "ops": 1.139
+        "pa": 28,
+        "ops": 1.096
       },
       "score": 76,
       "h2h_share": 0.16,
@@ -454,6 +404,106 @@
       "probablePitcherName": "Tyler Anderson"
     },
     {
+      "id": 621439,
+      "name": "Byron Buxton",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 641482,
+        "name": "Nestor Cortes",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641482/headshot/67/current",
+        "hitsPer9Inn": 7.45,
+        "hitsPer9Inn_site": 11.91,
+        "hitsPer9Inn_last_28_days": 7.29,
+        "hitsPer9Inn_vs_batter_side": 6.55
+      },
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.49,
+      "ops_vs_pitcher": {
+        "ab": 10,
+        "ops": 1.5
+      },
+      "wtb_percent": 0.242,
+      "season_pa": 429,
+      "ops_site": {
+        "pa": 207,
+        "ops": 0.908
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 91,
+        "ops": 1.053
+      },
+      "ops_last_7_days": {
+        "pa": 22,
+        "ops": 0.868
+      },
+      "score": 76,
+      "h2h_share": 0.21,
+      "score_breakdown": {
+        "wtb": 21,
+        "h9_side": 0,
+        "h9_28": 1,
+        "ops_hand": 13,
+        "ops_site": 4,
+        "last7": 7,
+        "opp": 8,
+        "h2h": 22
+      },
+      "gamePk": 776541,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Minnesota Twins",
+      "probablePitcherName": "Nestor Cortes"
+    },
+    {
+      "id": 607208,
+      "name": "Trea Turner",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607208/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 693821,
+        "name": "Bryce Elder",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
+        "hitsPer9Inn": 10.19,
+        "hitsPer9Inn_site": 8.9,
+        "hitsPer9Inn_last_28_days": 8.29,
+        "hitsPer9Inn_vs_batter_side": 11.51
+      },
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.49,
+      "ops_vs_pitcher": {
+        "ab": 2,
+        "ops": 0.6
+      },
+      "wtb_percent": 0.274,
+      "season_pa": 602,
+      "ops_site": {
+        "pa": 293,
+        "ops": 0.783
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 409,
+        "ops": 0.808
+      },
+      "ops_last_7_days": {
+        "pa": 34,
+        "ops": 0.629
+      },
+      "score": 75,
+      "h2h_share": 0.12,
+      "score_breakdown": {
+        "wtb": 30,
+        "h9_side": 6,
+        "h9_28": 1,
+        "ops_hand": 10,
+        "ops_site": 4,
+        "last7": 4,
+        "opp": 8,
+        "h2h": 12
+      },
+      "gamePk": 776552,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Philadelphia Phillies",
+      "probablePitcherName": "Bryce Elder"
+    },
+    {
       "id": 543807,
       "name": "George Springer",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543807/headshot/67/current",
@@ -461,9 +511,9 @@
         "id": 642547,
         "name": "Freddy Peralta",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
-        "hitsPer9Inn": 6.42,
-        "hitsPer9Inn_site": 6.3,
-        "hitsPer9Inn_last_28_days": 3.91,
+        "hitsPer9Inn": 6.41,
+        "hitsPer9Inn_site": 6.28,
+        "hitsPer9Inn_last_28_days": 4.01,
         "hitsPer9Inn_vs_batter_side": 5.86
       },
       "projectedBattingOrder": 1,
@@ -554,54 +604,104 @@
       "probablePitcherName": "Germán Márquez"
     },
     {
-      "id": 595777,
-      "name": "Jurickson Profar",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/595777/headshot/67/current",
+      "id": 660670,
+      "name": "Ronald Acuña Jr.",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660670/headshot/67/current",
       "probable_pitcher_splits": {
         "id": 624133,
         "name": "Ranger Suárez",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
-        "hitsPer9Inn": 8.3,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.17,
+        "hitsPer9Inn": 8.38,
+        "hitsPer9Inn_site": 9.13,
+        "hitsPer9Inn_last_28_days": 9.41,
         "hitsPer9Inn_vs_batter_side": 8.67
       },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.69,
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.49,
       "ops_vs_pitcher": {
-        "ab": 14,
-        "ops": 0.928
+        "ab": 2,
+        "ops": 1.5
       },
-      "wtb_percent": 0.229,
-      "season_pa": 253,
+      "wtb_percent": 0.246,
+      "season_pa": 297,
       "ops_site": {
-        "pa": 138,
-        "ops": 0.793
+        "pa": 152,
+        "ops": 0.926
       },
       "ops_vs_pitcher_hand": {
-        "pa": 62,
-        "ops": 0.889
+        "pa": 72,
+        "ops": 0.887
       },
       "ops_last_7_days": {
-        "pa": 35,
-        "ops": 1.193
+        "pa": 32,
+        "ops": 0.878
       },
       "score": 73,
-      "h2h_share": 0.17560000000000003,
+      "h2h_share": 0.14,
       "score_breakdown": {
-        "wtb": 17,
+        "wtb": 22,
         "h9_side": 3,
         "h9_28": 2,
-        "ops_hand": 11,
-        "ops_site": 3,
-        "last7": 10,
-        "opp": 10,
-        "h2h": 17
+        "ops_hand": 12,
+        "ops_site": 5,
+        "last7": 7,
+        "opp": 8,
+        "h2h": 14
       },
       "gamePk": 776552,
       "gameDate": "2025-08-29",
       "opponentTeamName": "Atlanta Braves",
       "probablePitcherName": "Ranger Suárez"
+    },
+    {
+      "id": 672580,
+      "name": "Maikel Garcia",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672580/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 663978,
+        "name": "Chris Paddack",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
+        "hitsPer9Inn": 9.24,
+        "hitsPer9Inn_site": 9.4,
+        "hitsPer9Inn_last_28_days": 10.18,
+        "hitsPer9Inn_vs_batter_side": 10.18
+      },
+      "projectedBattingOrder": 4,
+      "projected_pa": 4.2,
+      "ops_vs_pitcher": {
+        "ab": 4,
+        "ops": 1.1
+      },
+      "wtb_percent": 0.265,
+      "season_pa": 550,
+      "ops_site": {
+        "pa": 262,
+        "ops": 0.814
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 441,
+        "ops": 0.799
+      },
+      "ops_last_7_days": {
+        "pa": 27,
+        "ops": 0.708
+      },
+      "score": 73,
+      "h2h_share": 0.145,
+      "score_breakdown": {
+        "wtb": 28,
+        "h9_side": 4,
+        "h9_28": 2,
+        "ops_hand": 9,
+        "ops_site": 4,
+        "last7": 5,
+        "opp": 6,
+        "h2h": 15
+      },
+      "gamePk": 776540,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Kansas City Royals",
+      "probablePitcherName": "Chris Paddack"
     },
     {
       "id": 805779,
@@ -654,56 +754,6 @@
       "probablePitcherName": "Jack Leiter"
     },
     {
-      "id": 672580,
-      "name": "Maikel Garcia",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672580/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 663978,
-        "name": "Chris Paddack",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
-        "hitsPer9Inn": 9.24,
-        "hitsPer9Inn_site": 9.4,
-        "hitsPer9Inn_last_28_days": 10.18,
-        "hitsPer9Inn_vs_batter_side": 10.18
-      },
-      "projectedBattingOrder": 4,
-      "projected_pa": 4.2,
-      "ops_vs_pitcher": {
-        "ab": 2,
-        "ops": 2
-      },
-      "wtb_percent": 0.265,
-      "season_pa": 550,
-      "ops_site": {
-        "pa": 262,
-        "ops": 0.814
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 441,
-        "ops": 0.799
-      },
-      "ops_last_7_days": {
-        "pa": 27,
-        "ops": 0.708
-      },
-      "score": 72,
-      "h2h_share": 0.14,
-      "score_breakdown": {
-        "wtb": 28,
-        "h9_side": 4,
-        "h9_28": 2,
-        "ops_hand": 9,
-        "ops_site": 4,
-        "last7": 5,
-        "opp": 6,
-        "h2h": 14
-      },
-      "gamePk": 776540,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Kansas City Royals",
-      "probablePitcherName": "Chris Paddack"
-    },
-    {
       "id": 676475,
       "name": "Alec Burleson",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676475/headshot/67/current",
@@ -711,9 +761,9 @@
         "id": 641793,
         "name": "Zack Littell",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641793/headshot/67/current",
-        "hitsPer9Inn": 8.83,
-        "hitsPer9Inn_site": 9.23,
-        "hitsPer9Inn_last_28_days": 9.89,
+        "hitsPer9Inn": 8.77,
+        "hitsPer9Inn_site": 9.09,
+        "hitsPer9Inn_last_28_days": 9.49,
         "hitsPer9Inn_vs_batter_side": 8.29
       },
       "projectedBattingOrder": 3,
@@ -754,106 +804,6 @@
       "probablePitcherName": "Zack Littell"
     },
     {
-      "id": 687263,
-      "name": "Zach Neto",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687263/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 664299,
-        "name": "Cristian Javier",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664299/headshot/67/current",
-        "hitsPer9Inn": 8.1,
-        "hitsPer9Inn_site": 6.75,
-        "hitsPer9Inn_last_28_days": 8.1,
-        "hitsPer9Inn_vs_batter_side": 8.31
-      },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.69,
-      "ops_vs_pitcher": {
-        "ab": 5,
-        "ops": 0
-      },
-      "wtb_percent": 0.247,
-      "season_pa": 494,
-      "ops_site": {
-        "pa": 232,
-        "ops": 0.835
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 392,
-        "ops": 0.816
-      },
-      "ops_last_7_days": {
-        "pa": 23,
-        "ops": 1.075
-      },
-      "score": 71,
-      "h2h_share": 0.09,
-      "score_breakdown": {
-        "wtb": 22,
-        "h9_side": 3,
-        "h9_28": 1,
-        "ops_hand": 11,
-        "ops_site": 5,
-        "last7": 10,
-        "opp": 10,
-        "h2h": 9
-      },
-      "gamePk": 776543,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Los Angeles Angels",
-      "probablePitcherName": "Cristian Javier"
-    },
-    {
-      "id": 621439,
-      "name": "Byron Buxton",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 641482,
-        "name": "Nestor Cortes",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641482/headshot/67/current",
-        "hitsPer9Inn": 7.45,
-        "hitsPer9Inn_site": 11.91,
-        "hitsPer9Inn_last_28_days": 7.29,
-        "hitsPer9Inn_vs_batter_side": 6.55
-      },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.49,
-      "ops_vs_pitcher": {
-        "ab": 1,
-        "ops": 0
-      },
-      "wtb_percent": 0.242,
-      "season_pa": 429,
-      "ops_site": {
-        "pa": 207,
-        "ops": 0.908
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 91,
-        "ops": 1.053
-      },
-      "ops_last_7_days": {
-        "pa": 22,
-        "ops": 0.868
-      },
-      "score": 71,
-      "h2h_share": 0.12,
-      "score_breakdown": {
-        "wtb": 21,
-        "h9_side": 1,
-        "h9_28": 1,
-        "ops_hand": 16,
-        "ops_site": 5,
-        "last7": 7,
-        "opp": 8,
-        "h2h": 12
-      },
-      "gamePk": 776541,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Minnesota Twins",
-      "probablePitcherName": "Nestor Cortes"
-    },
-    {
       "id": 682622,
       "name": "Noelvi Marte",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682622/headshot/67/current",
@@ -861,16 +811,16 @@
         "id": 669461,
         "name": "Matthew Liberatore",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
-        "hitsPer9Inn": 9.47,
-        "hitsPer9Inn_site": 9.13,
-        "hitsPer9Inn_last_28_days": 9.89,
+        "hitsPer9Inn": 9.42,
+        "hitsPer9Inn_site": 9.04,
+        "hitsPer9Inn_last_28_days": 9.59,
         "hitsPer9Inn_vs_batter_side": 9.27
       },
       "projectedBattingOrder": 2,
       "projected_pa": 4.4,
       "ops_vs_pitcher": {
-        "ab": 3,
-        "ops": 0.666
+        "ab": 1,
+        "ops": 0
       },
       "wtb_percent": 0.281,
       "season_pa": 249,
@@ -886,8 +836,8 @@
         "pa": 28,
         "ops": 0.881
       },
-      "score": 70,
-      "h2h_share": 0.1133,
+      "score": 71,
+      "h2h_share": 0.12,
       "score_breakdown": {
         "wtb": 30,
         "h9_side": 4,
@@ -896,7 +846,7 @@
         "ops_site": 4,
         "last7": 7,
         "opp": 8,
-        "h2h": 11
+        "h2h": 12
       },
       "gamePk": 776551,
       "gameDate": "2025-08-29",
@@ -911,9 +861,9 @@
         "id": 669461,
         "name": "Matthew Liberatore",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
-        "hitsPer9Inn": 9.47,
-        "hitsPer9Inn_site": 9.13,
-        "hitsPer9Inn_last_28_days": 9.89,
+        "hitsPer9Inn": 9.42,
+        "hitsPer9Inn_site": 9.04,
+        "hitsPer9Inn_last_28_days": 9.59,
         "hitsPer9Inn_vs_batter_side": 9.27
       },
       "projectedBattingOrder": 4,
@@ -922,21 +872,21 @@
         "ab": 1,
         "ops": 0
       },
-      "wtb_percent": 0.24,
-      "season_pa": 338,
+      "wtb_percent": 0.239,
+      "season_pa": 339,
       "ops_site": {
-        "pa": 148,
-        "ops": 0.734
+        "pa": 149,
+        "ops": 0.729
       },
       "ops_vs_pitcher_hand": {
         "pa": 88,
         "ops": 1.017
       },
       "ops_last_7_days": {
-        "pa": 26,
-        "ops": 0.907
+        "pa": 27,
+        "ops": 0.87
       },
-      "score": 70,
+      "score": 69,
       "h2h_share": 0.12,
       "score_breakdown": {
         "wtb": 21,
@@ -944,7 +894,7 @@
         "h9_28": 2,
         "ops_hand": 15,
         "ops_site": 3,
-        "last7": 8,
+        "last7": 7,
         "opp": 6,
         "h2h": 12
       },
@@ -954,54 +904,104 @@
       "probablePitcherName": "Matthew Liberatore"
     },
     {
-      "id": 608070,
-      "name": "José Ramírez",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608070/headshot/67/current",
+      "id": 595777,
+      "name": "Jurickson Profar",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/595777/headshot/67/current",
       "probable_pitcher_splits": {
-        "id": 669923,
-        "name": "George Kirby",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
-        "hitsPer9Inn": 8.31,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.62,
-        "hitsPer9Inn_vs_batter_side": 9.3
+        "id": 624133,
+        "name": "Ranger Suárez",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
+        "hitsPer9Inn": 8.38,
+        "hitsPer9Inn_site": 9.13,
+        "hitsPer9Inn_last_28_days": 9.41,
+        "hitsPer9Inn_vs_batter_side": 8.67
       },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.3,
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.69,
       "ops_vs_pitcher": {
-        "ab": 9,
-        "ops": 1.611
+        "ab": 1,
+        "ops": 3
       },
-      "wtb_percent": 0.253,
-      "season_pa": 546,
+      "wtb_percent": 0.228,
+      "season_pa": 254,
       "ops_site": {
-        "pa": 265,
-        "ops": 0.924
+        "pa": 139,
+        "ops": 0.787
       },
       "ops_vs_pitcher_hand": {
-        "pa": 385,
-        "ops": 0.849
+        "pa": 62,
+        "ops": 0.889
       },
       "ops_last_7_days": {
-        "pa": 19,
-        "ops": 0.421
+        "pa": 36,
+        "ops": 1.155
       },
       "score": 69,
-      "h2h_share": 0.2,
+      "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 24,
+        "wtb": 16,
         "h9_side": 3,
         "h9_28": 2,
-        "ops_hand": 9,
+        "ops_hand": 12,
         "ops_site": 4,
-        "last7": 0,
-        "opp": 7,
-        "h2h": 20
+        "last7": 10,
+        "opp": 10,
+        "h2h": 12
       },
-      "gamePk": 776547,
+      "gamePk": 776552,
       "gameDate": "2025-08-29",
-      "opponentTeamName": "Cleveland Guardians",
-      "probablePitcherName": "George Kirby"
+      "opponentTeamName": "Atlanta Braves",
+      "probablePitcherName": "Ranger Suárez"
+    },
+    {
+      "id": 687263,
+      "name": "Zach Neto",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687263/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 664299,
+        "name": "Cristian Javier",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664299/headshot/67/current",
+        "hitsPer9Inn": 8.1,
+        "hitsPer9Inn_site": 6.75,
+        "hitsPer9Inn_last_28_days": 8.1,
+        "hitsPer9Inn_vs_batter_side": 8.31
+      },
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.69,
+      "ops_vs_pitcher": {
+        "ab": 7,
+        "ops": 0.429
+      },
+      "wtb_percent": 0.247,
+      "season_pa": 494,
+      "ops_site": {
+        "pa": 232,
+        "ops": 0.835
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 392,
+        "ops": 0.816
+      },
+      "ops_last_7_days": {
+        "pa": 23,
+        "ops": 1.075
+      },
+      "score": 69,
+      "h2h_share": 0.07145,
+      "score_breakdown": {
+        "wtb": 22,
+        "h9_side": 3,
+        "h9_28": 1,
+        "ops_hand": 11,
+        "ops_site": 5,
+        "last7": 10,
+        "opp": 10,
+        "h2h": 7
+      },
+      "gamePk": 776543,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Los Angeles Angels",
+      "probablePitcherName": "Cristian Javier"
     },
     {
       "id": 683737,
@@ -1054,56 +1054,6 @@
       "probablePitcherName": "Germán Márquez"
     },
     {
-      "id": 664761,
-      "name": "Alec Bohm",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664761/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 693821,
-        "name": "Bryce Elder",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
-        "hitsPer9Inn": 10.1,
-        "hitsPer9Inn_site": 8.7,
-        "hitsPer9Inn_last_28_days": 7.91,
-        "hitsPer9Inn_vs_batter_side": 11.51
-      },
-      "projectedBattingOrder": 5,
-      "projected_pa": 4.1,
-      "ops_vs_pitcher": {
-        "ab": 7,
-        "ops": 0.858
-      },
-      "wtb_percent": 0.262,
-      "season_pa": 431,
-      "ops_site": {
-        "pa": 212,
-        "ops": 0.736
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 314,
-        "ops": 0.706
-      },
-      "ops_last_7_days": {
-        "pa": 29,
-        "ops": 0.738
-      },
-      "score": 68,
-      "h2h_share": 0.14159999999999998,
-      "score_breakdown": {
-        "wtb": 27,
-        "h9_side": 6,
-        "h9_28": 1,
-        "ops_hand": 7,
-        "ops_site": 3,
-        "last7": 5,
-        "opp": 5,
-        "h2h": 14
-      },
-      "gamePk": 776552,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Philadelphia Phillies",
-      "probablePitcherName": "Bryce Elder"
-    },
-    {
       "id": 621043,
       "name": "Carlos Correa",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621043/headshot/67/current",
@@ -1152,6 +1102,56 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "Houston Astros",
       "probablePitcherName": "Tyler Anderson"
+    },
+    {
+      "id": 686469,
+      "name": "Vinnie Pasquantino",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686469/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 663978,
+        "name": "Chris Paddack",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
+        "hitsPer9Inn": 9.24,
+        "hitsPer9Inn_site": 9.4,
+        "hitsPer9Inn_last_28_days": 10.18,
+        "hitsPer9Inn_vs_batter_side": 8.45
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.3,
+      "ops_vs_pitcher": {
+        "ab": 5,
+        "ops": 1.6
+      },
+      "wtb_percent": 0.239,
+      "season_pa": 561,
+      "ops_site": {
+        "pa": 271,
+        "ops": 0.78
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 431,
+        "ops": 0.846
+      },
+      "ops_last_7_days": {
+        "pa": 26,
+        "ops": 0.807
+      },
+      "score": 68,
+      "h2h_share": 0.18,
+      "score_breakdown": {
+        "wtb": 20,
+        "h9_side": 2,
+        "h9_28": 2,
+        "ops_hand": 10,
+        "ops_site": 3,
+        "last7": 6,
+        "opp": 7,
+        "h2h": 18
+      },
+      "gamePk": 776540,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Kansas City Royals",
+      "probablePitcherName": "Chris Paddack"
     },
     {
       "id": 592518,
@@ -1354,154 +1354,54 @@
       "probablePitcherName": "Blake Snell"
     },
     {
-      "id": 646240,
-      "name": "Rafael Devers",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/646240/headshot/67/current",
+      "id": 664761,
+      "name": "Alec Bohm",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664761/headshot/67/current",
       "probable_pitcher_splits": {
-        "id": 665152,
-        "name": "Dean Kremer",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
-        "hitsPer9Inn": 8.8,
-        "hitsPer9Inn_site": 10.15,
-        "hitsPer9Inn_last_28_days": 7.96,
-        "hitsPer9Inn_vs_batter_side": 9.19
+        "id": 693821,
+        "name": "Bryce Elder",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
+        "hitsPer9Inn": 10.19,
+        "hitsPer9Inn_site": 8.9,
+        "hitsPer9Inn_last_28_days": 8.29,
+        "hitsPer9Inn_vs_batter_side": 11.51
       },
-      "projectedBattingOrder": 2,
-      "projected_pa": 4.4,
+      "projectedBattingOrder": 5,
+      "projected_pa": 4.1,
       "ops_vs_pitcher": {
-        "ab": 23,
-        "ops": 0.994
+        "ab": 5,
+        "ops": 0.8
       },
-      "wtb_percent": 0.214,
-      "season_pa": 603,
+      "wtb_percent": 0.262,
+      "season_pa": 432,
       "ops_site": {
-        "pa": 317,
-        "ops": 0.888
+        "pa": 213,
+        "ops": 0.732
       },
       "ops_vs_pitcher_hand": {
-        "pa": 398,
-        "ops": 0.908
+        "pa": 314,
+        "ops": 0.706
       },
       "ops_last_7_days": {
-        "pa": 23,
-        "ops": 1.215
-      },
-      "score": 68,
-      "h2h_share": 0.21789999999999998,
-      "score_breakdown": {
-        "wtb": 11,
-        "h9_side": 3,
-        "h9_28": 1,
-        "ops_hand": 10,
-        "ops_site": 4,
-        "last7": 10,
-        "opp": 8,
-        "h2h": 21
-      },
-      "gamePk": 776533,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "San Francisco Giants",
-      "probablePitcherName": "Dean Kremer"
-    },
-    {
-      "id": 660670,
-      "name": "Ronald Acuña Jr.",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660670/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 624133,
-        "name": "Ranger Suárez",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
-        "hitsPer9Inn": 8.3,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.17,
-        "hitsPer9Inn_vs_batter_side": 8.67
-      },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.49,
-      "ops_vs_pitcher": {
-        "ab": 19,
-        "ops": 0.581
-      },
-      "wtb_percent": 0.246,
-      "season_pa": 297,
-      "ops_site": {
-        "pa": 152,
-        "ops": 0.926
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 72,
-        "ops": 0.887
-      },
-      "ops_last_7_days": {
-        "pa": 32,
-        "ops": 0.878
+        "pa": 30,
+        "ops": 0.712
       },
       "score": 67,
-      "h2h_share": 0.04,
+      "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 23,
-        "h9_side": 3,
-        "h9_28": 2,
-        "ops_hand": 14,
-        "ops_site": 6,
-        "last7": 7,
-        "opp": 8,
-        "h2h": 4
+        "wtb": 27,
+        "h9_side": 6,
+        "h9_28": 1,
+        "ops_hand": 8,
+        "ops_site": 3,
+        "last7": 5,
+        "opp": 5,
+        "h2h": 12
       },
       "gamePk": 776552,
       "gameDate": "2025-08-29",
-      "opponentTeamName": "Atlanta Braves",
-      "probablePitcherName": "Ranger Suárez"
-    },
-    {
-      "id": 686469,
-      "name": "Vinnie Pasquantino",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686469/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 663978,
-        "name": "Chris Paddack",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
-        "hitsPer9Inn": 9.24,
-        "hitsPer9Inn_site": 9.4,
-        "hitsPer9Inn_last_28_days": 10.18,
-        "hitsPer9Inn_vs_batter_side": 8.45
-      },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.3,
-      "ops_vs_pitcher": {
-        "ab": 3,
-        "ops": 1.666
-      },
-      "wtb_percent": 0.239,
-      "season_pa": 561,
-      "ops_site": {
-        "pa": 271,
-        "ops": 0.78
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 431,
-        "ops": 0.846
-      },
-      "ops_last_7_days": {
-        "pa": 26,
-        "ops": 0.807
-      },
-      "score": 67,
-      "h2h_share": 0.16,
-      "score_breakdown": {
-        "wtb": 21,
-        "h9_side": 2,
-        "h9_28": 2,
-        "ops_hand": 10,
-        "ops_site": 3,
-        "last7": 6,
-        "opp": 7,
-        "h2h": 16
-      },
-      "gamePk": 776540,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Kansas City Royals",
-      "probablePitcherName": "Chris Paddack"
+      "opponentTeamName": "Philadelphia Phillies",
+      "probablePitcherName": "Bryce Elder"
     },
     {
       "id": 650333,
@@ -1604,9 +1504,9 @@
       "probablePitcherName": "Zebby Matthews"
     },
     {
-      "id": 669257,
-      "name": "Will Smith",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669257/headshot/67/current",
+      "id": 660271,
+      "name": "Shohei Ohtani",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
       "probable_pitcher_splits": {
         "id": 668678,
         "name": "Zac Gallen",
@@ -1614,39 +1514,39 @@
         "hitsPer9Inn": 8.77,
         "hitsPer9Inn_site": 8.84,
         "hitsPer9Inn_last_28_days": 8.38,
-        "hitsPer9Inn_vs_batter_side": 7.79
+        "hitsPer9Inn_vs_batter_side": 9.94
       },
-      "projectedBattingOrder": 4,
-      "projected_pa": 4.2,
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.49,
       "ops_vs_pitcher": {
-        "ab": 20,
-        "ops": 0.935
+        "ab": 3,
+        "ops": 0
       },
-      "wtb_percent": 0.245,
-      "season_pa": 417,
+      "wtb_percent": 0.234,
+      "season_pa": 603,
       "ops_site": {
-        "pa": 209,
-        "ops": 0.97
+        "pa": 311,
+        "ops": 1
       },
       "ops_vs_pitcher_hand": {
-        "pa": 309,
-        "ops": 0.917
+        "pa": 403,
+        "ops": 1.039
       },
       "ops_last_7_days": {
-        "pa": 15,
-        "ops": 0.508
+        "pa": 27,
+        "ops": 0.52
       },
       "score": 67,
-      "h2h_share": 0.1905,
+      "h2h_share": 0.11,
       "score_breakdown": {
-        "wtb": 21,
-        "h9_side": 2,
+        "wtb": 19,
+        "h9_side": 4,
         "h9_28": 1,
-        "ops_hand": 11,
-        "ops_site": 5,
+        "ops_hand": 16,
+        "ops_site": 6,
         "last7": 2,
-        "opp": 6,
-        "h2h": 19
+        "opp": 8,
+        "h2h": 11
       },
       "gamePk": 776534,
       "gameDate": "2025-08-29",
@@ -1661,9 +1561,9 @@
         "id": 605288,
         "name": "Adrian Houser",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605288/headshot/67/current",
-        "hitsPer9Inn": 8.9,
-        "hitsPer9Inn_site": 10.33,
-        "hitsPer9Inn_last_28_days": 11.1,
+        "hitsPer9Inn": 8.94,
+        "hitsPer9Inn_site": 10.37,
+        "hitsPer9Inn_last_28_days": 11.16,
         "hitsPer9Inn_vs_batter_side": 9.98
       },
       "projectedBattingOrder": 1,
@@ -1704,6 +1604,56 @@
       "probablePitcherName": "Adrian Houser"
     },
     {
+      "id": 547180,
+      "name": "Bryce Harper",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547180/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 693821,
+        "name": "Bryce Elder",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
+        "hitsPer9Inn": 10.19,
+        "hitsPer9Inn_site": 8.9,
+        "hitsPer9Inn_last_28_days": 8.29,
+        "hitsPer9Inn_vs_batter_side": 9
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.3,
+      "ops_vs_pitcher": {
+        "ab": 4,
+        "ops": 0.2
+      },
+      "wtb_percent": 0.235,
+      "season_pa": 469,
+      "ops_site": {
+        "pa": 215,
+        "ops": 1.005
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 288,
+        "ops": 0.872
+      },
+      "ops_last_7_days": {
+        "pa": 31,
+        "ops": 0.887
+      },
+      "score": 66,
+      "h2h_share": 0.1,
+      "score_breakdown": {
+        "wtb": 19,
+        "h9_side": 3,
+        "h9_28": 1,
+        "ops_hand": 12,
+        "ops_site": 6,
+        "last7": 8,
+        "opp": 7,
+        "h2h": 10
+      },
+      "gamePk": 776552,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Philadelphia Phillies",
+      "probablePitcherName": "Bryce Elder"
+    },
+    {
       "id": 592663,
       "name": "J.T. Realmuto",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592663/headshot/67/current",
@@ -1711,16 +1661,16 @@
         "id": 693821,
         "name": "Bryce Elder",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
-        "hitsPer9Inn": 10.1,
-        "hitsPer9Inn_site": 8.7,
-        "hitsPer9Inn_last_28_days": 7.91,
+        "hitsPer9Inn": 10.19,
+        "hitsPer9Inn_site": 8.9,
+        "hitsPer9Inn_last_28_days": 8.29,
         "hitsPer9Inn_vs_batter_side": 11.51
       },
       "projectedBattingOrder": 4,
       "projected_pa": 4.2,
       "ops_vs_pitcher": {
-        "ab": 4,
-        "ops": 0.65
+        "ab": 3,
+        "ops": 0
       },
       "wtb_percent": 0.249,
       "season_pa": 457,
@@ -1737,7 +1687,7 @@
         "ops": 0.695
       },
       "score": 66,
-      "h2h_share": 0.105,
+      "h2h_share": 0.11,
       "score_breakdown": {
         "wtb": 22,
         "h9_side": 6,
@@ -1761,9 +1711,9 @@
         "id": 671106,
         "name": "Logan Allen",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671106/headshot/67/current",
-        "hitsPer9Inn": 9.39,
-        "hitsPer9Inn_site": 9.72,
-        "hitsPer9Inn_last_28_days": 11.76,
+        "hitsPer9Inn": 9.32,
+        "hitsPer9Inn_site": 9.59,
+        "hitsPer9Inn_last_28_days": 11.22,
         "hitsPer9Inn_vs_batter_side": 9.66
       },
       "projectedBattingOrder": 3,
@@ -1854,154 +1804,54 @@
       "probablePitcherName": "Blake Snell"
     },
     {
-      "id": 660271,
-      "name": "Shohei Ohtani",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
+      "id": 608070,
+      "name": "José Ramírez",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608070/headshot/67/current",
       "probable_pitcher_splits": {
-        "id": 668678,
-        "name": "Zac Gallen",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668678/headshot/67/current",
-        "hitsPer9Inn": 8.77,
-        "hitsPer9Inn_site": 8.84,
-        "hitsPer9Inn_last_28_days": 8.38,
-        "hitsPer9Inn_vs_batter_side": 9.94
-      },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.49,
-      "ops_vs_pitcher": {
-        "ab": 10,
-        "ops": 0.633
-      },
-      "wtb_percent": 0.234,
-      "season_pa": 603,
-      "ops_site": {
-        "pa": 311,
-        "ops": 1
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 403,
-        "ops": 1.039
-      },
-      "ops_last_7_days": {
-        "pa": 27,
-        "ops": 0.52
-      },
-      "score": 66,
-      "h2h_share": 0.0732,
-      "score_breakdown": {
-        "wtb": 19,
-        "h9_side": 5,
-        "h9_28": 1,
-        "ops_hand": 17,
-        "ops_site": 7,
-        "last7": 2,
-        "opp": 8,
-        "h2h": 7
-      },
-      "gamePk": 776534,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Los Angeles Dodgers",
-      "probablePitcherName": "Zac Gallen"
-    },
-    {
-      "id": 671277,
-      "name": "Luis García Jr.",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671277/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 605288,
-        "name": "Adrian Houser",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605288/headshot/67/current",
-        "hitsPer9Inn": 8.9,
-        "hitsPer9Inn_site": 10.33,
-        "hitsPer9Inn_last_28_days": 11.1,
-        "hitsPer9Inn_vs_batter_side": 9.98
-      },
-      "projectedBattingOrder": 4,
-      "projected_pa": 4.2,
-      "ops_vs_pitcher": {
-        "ab": 2,
-        "ops": 0
-      },
-      "wtb_percent": 0.242,
-      "season_pa": 442,
-      "ops_site": {
-        "pa": 210,
-        "ops": 0.668
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 347,
-        "ops": 0.775
-      },
-      "ops_last_7_days": {
-        "pa": 22,
-        "ops": 0.892
-      },
-      "score": 65,
-      "h2h_share": 0.12,
-      "score_breakdown": {
-        "wtb": 20,
-        "h9_side": 4,
-        "h9_28": 3,
-        "ops_hand": 9,
-        "ops_site": 3,
-        "last7": 8,
-        "opp": 6,
-        "h2h": 12
-      },
-      "gamePk": 776545,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Washington Nationals",
-      "probablePitcherName": "Adrian Houser"
-    },
-    {
-      "id": 592885,
-      "name": "Christian Yelich",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592885/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 669456,
-        "name": "Shane Bieber",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669456/headshot/67/current",
-        "hitsPer9Inn": 4.5,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 4.5,
-        "hitsPer9Inn_vs_batter_side": 3
+        "id": 669923,
+        "name": "George Kirby",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
+        "hitsPer9Inn": 8.2,
+        "hitsPer9Inn_site": 8.74,
+        "hitsPer9Inn_last_28_days": 9.12,
+        "hitsPer9Inn_vs_batter_side": 9.3
       },
       "projectedBattingOrder": 3,
-      "projected_pa": 4.49,
+      "projected_pa": 4.3,
       "ops_vs_pitcher": {
-        "ab": 2,
-        "ops": 0.333
+        "ab": 1,
+        "ops": 2
       },
-      "wtb_percent": 0.239,
-      "season_pa": 547,
+      "wtb_percent": 0.253,
+      "season_pa": 546,
       "ops_site": {
-        "pa": 286,
-        "ops": 0.861
+        "pa": 265,
+        "ops": 0.924
       },
       "ops_vs_pitcher_hand": {
-        "pa": 365,
-        "ops": 0.879
+        "pa": 385,
+        "ops": 0.849
       },
       "ops_last_7_days": {
-        "pa": 27,
-        "ops": 0.924
+        "pa": 19,
+        "ops": 0.421
       },
       "score": 65,
       "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 20,
-        "h9_side": 0,
-        "h9_28": 0,
-        "ops_hand": 12,
+        "wtb": 24,
+        "h9_side": 4,
+        "h9_28": 2,
+        "ops_hand": 11,
         "ops_site": 5,
-        "last7": 8,
-        "opp": 8,
+        "last7": 0,
+        "opp": 7,
         "h2h": 12
       },
-      "gamePk": 776546,
+      "gamePk": 776547,
       "gameDate": "2025-08-29",
-      "opponentTeamName": "Milwaukee Brewers",
-      "probablePitcherName": "Shane Bieber"
+      "opponentTeamName": "Cleveland Guardians",
+      "probablePitcherName": "George Kirby"
     },
     {
       "id": 691718,
@@ -2104,104 +1954,104 @@
       "probablePitcherName": "Jack Leiter"
     },
     {
-      "id": 547180,
-      "name": "Bryce Harper",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547180/headshot/67/current",
+      "id": 671277,
+      "name": "Luis García Jr.",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671277/headshot/67/current",
       "probable_pitcher_splits": {
-        "id": 693821,
-        "name": "Bryce Elder",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
-        "hitsPer9Inn": 10.1,
-        "hitsPer9Inn_site": 8.7,
-        "hitsPer9Inn_last_28_days": 7.91,
-        "hitsPer9Inn_vs_batter_side": 9
+        "id": 605288,
+        "name": "Adrian Houser",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605288/headshot/67/current",
+        "hitsPer9Inn": 8.94,
+        "hitsPer9Inn_site": 10.37,
+        "hitsPer9Inn_last_28_days": 11.16,
+        "hitsPer9Inn_vs_batter_side": 9.98
       },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.3,
+      "projectedBattingOrder": 4,
+      "projected_pa": 4.2,
       "ops_vs_pitcher": {
-        "ab": 4,
-        "ops": 0.2
+        "ab": 2,
+        "ops": 0
       },
-      "wtb_percent": 0.233,
-      "season_pa": 468,
+      "wtb_percent": 0.242,
+      "season_pa": 443,
       "ops_site": {
-        "pa": 214,
-        "ops": 1
+        "pa": 211,
+        "ops": 0.665
       },
       "ops_vs_pitcher_hand": {
-        "pa": 288,
-        "ops": 0.872
+        "pa": 347,
+        "ops": 0.775
       },
       "ops_last_7_days": {
-        "pa": 30,
-        "ops": 0.85
+        "pa": 23,
+        "ops": 0.852
       },
       "score": 64,
-      "h2h_share": 0.1,
+      "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 18,
-        "h9_side": 3,
-        "h9_28": 1,
-        "ops_hand": 12,
-        "ops_site": 6,
+        "wtb": 20,
+        "h9_side": 4,
+        "h9_28": 3,
+        "ops_hand": 9,
+        "ops_site": 3,
         "last7": 7,
-        "opp": 7,
-        "h2h": 10
+        "opp": 6,
+        "h2h": 12
       },
-      "gamePk": 776552,
+      "gamePk": 776545,
       "gameDate": "2025-08-29",
-      "opponentTeamName": "Philadelphia Phillies",
-      "probablePitcherName": "Bryce Elder"
+      "opponentTeamName": "Washington Nationals",
+      "probablePitcherName": "Adrian Houser"
     },
     {
-      "id": 680757,
-      "name": "Steven Kwan",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680757/headshot/67/current",
+      "id": 663728,
+      "name": "Cal Raleigh",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663728/headshot/67/current",
       "probable_pitcher_splits": {
-        "id": 669923,
-        "name": "George Kirby",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
-        "hitsPer9Inn": 8.31,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.62,
-        "hitsPer9Inn_vs_batter_side": 9.3
+        "id": 671106,
+        "name": "Logan Allen",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671106/headshot/67/current",
+        "hitsPer9Inn": 9.32,
+        "hitsPer9Inn_site": 9.59,
+        "hitsPer9Inn_last_28_days": 11.22,
+        "hitsPer9Inn_vs_batter_side": 9.66
       },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.49,
+      "projectedBattingOrder": 2,
+      "projected_pa": 4.59,
       "ops_vs_pitcher": {
-        "ab": 11,
-        "ops": 1.091
+        "ab": 1,
+        "ops": 0.5
       },
-      "wtb_percent": 0.246,
-      "season_pa": 558,
+      "wtb_percent": 0.207,
+      "season_pa": 580,
       "ops_site": {
-        "pa": 263,
-        "ops": 0.719
+        "pa": 301,
+        "ops": 0.997
       },
       "ops_vs_pitcher_hand": {
-        "pa": 376,
-        "ops": 0.769
+        "pa": 170,
+        "ops": 1.036
       },
       "ops_last_7_days": {
-        "pa": 25,
-        "ops": 0.414
+        "pa": 28,
+        "ops": 0.828
       },
       "score": 64,
-      "h2h_share": 0.1891,
+      "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 21,
-        "h9_side": 3,
-        "h9_28": 2,
-        "ops_hand": 8,
-        "ops_site": 3,
-        "last7": 0,
-        "opp": 8,
-        "h2h": 19
+        "wtb": 8,
+        "h9_side": 4,
+        "h9_28": 3,
+        "ops_hand": 15,
+        "ops_site": 6,
+        "last7": 7,
+        "opp": 9,
+        "h2h": 12
       },
       "gamePk": 776547,
       "gameDate": "2025-08-29",
-      "opponentTeamName": "Cleveland Guardians",
-      "probablePitcherName": "George Kirby"
+      "opponentTeamName": "Seattle Mariners",
+      "probablePitcherName": "Logan Allen"
     },
     {
       "id": 624413,
@@ -2302,6 +2152,56 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "New York Mets",
       "probablePitcherName": "Eury Pérez"
+    },
+    {
+      "id": 592885,
+      "name": "Christian Yelich",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592885/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 669456,
+        "name": "Shane Bieber",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669456/headshot/67/current",
+        "hitsPer9Inn": 4,
+        "hitsPer9Inn_site": 6,
+        "hitsPer9Inn_last_28_days": 4,
+        "hitsPer9Inn_vs_batter_side": 3
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.49,
+      "ops_vs_pitcher": {
+        "ab": 5,
+        "ops": 0.167
+      },
+      "wtb_percent": 0.239,
+      "season_pa": 547,
+      "ops_site": {
+        "pa": 286,
+        "ops": 0.861
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 365,
+        "ops": 0.879
+      },
+      "ops_last_7_days": {
+        "pa": 27,
+        "ops": 0.924
+      },
+      "score": 63,
+      "h2h_share": 0.09,
+      "score_breakdown": {
+        "wtb": 20,
+        "h9_side": 0,
+        "h9_28": 0,
+        "ops_hand": 13,
+        "ops_site": 5,
+        "last7": 8,
+        "opp": 8,
+        "h2h": 9
+      },
+      "gamePk": 776546,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Milwaukee Brewers",
+      "probablePitcherName": "Shane Bieber"
     },
     {
       "id": 514888,
@@ -2504,54 +2404,54 @@
       "probablePitcherName": "Jeffrey Springs"
     },
     {
-      "id": 682829,
-      "name": "Elly De La Cruz",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682829/headshot/67/current",
+      "id": 669257,
+      "name": "Will Smith",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669257/headshot/67/current",
       "probable_pitcher_splits": {
-        "id": 669461,
-        "name": "Matthew Liberatore",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
-        "hitsPer9Inn": 9.47,
-        "hitsPer9Inn_site": 9.13,
-        "hitsPer9Inn_last_28_days": 9.89,
-        "hitsPer9Inn_vs_batter_side": 9.27
+        "id": 668678,
+        "name": "Zac Gallen",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668678/headshot/67/current",
+        "hitsPer9Inn": 8.77,
+        "hitsPer9Inn_site": 8.84,
+        "hitsPer9Inn_last_28_days": 8.38,
+        "hitsPer9Inn_vs_batter_side": 7.79
       },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.3,
+      "projectedBattingOrder": 4,
+      "projected_pa": 4.2,
       "ops_vs_pitcher": {
-        "ab": 5,
-        "ops": 0.829
+        "ab": 1,
+        "ops": 0.5
       },
-      "wtb_percent": 0.246,
-      "season_pa": 581,
+      "wtb_percent": 0.245,
+      "season_pa": 417,
       "ops_site": {
-        "pa": 275,
-        "ops": 0.868
+        "pa": 209,
+        "ops": 0.97
       },
       "ops_vs_pitcher_hand": {
-        "pa": 184,
-        "ops": 0.631
+        "pa": 309,
+        "ops": 0.917
       },
       "ops_last_7_days": {
-        "pa": 28,
-        "ops": 0.715
+        "pa": 15,
+        "ops": 0.508
       },
-      "score": 62,
-      "h2h_share": 0.12434999999999999,
+      "score": 63,
+      "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 22,
-        "h9_side": 3,
-        "h9_28": 2,
-        "ops_hand": 6,
-        "ops_site": 5,
-        "last7": 5,
-        "opp": 7,
+        "wtb": 21,
+        "h9_side": 2,
+        "h9_28": 1,
+        "ops_hand": 13,
+        "ops_site": 6,
+        "last7": 2,
+        "opp": 6,
         "h2h": 12
       },
-      "gamePk": 776551,
+      "gamePk": 776534,
       "gameDate": "2025-08-29",
-      "opponentTeamName": "Cincinnati Reds",
-      "probablePitcherName": "Matthew Liberatore"
+      "opponentTeamName": "Los Angeles Dodgers",
+      "probablePitcherName": "Zac Gallen"
     },
     {
       "id": 608324,
@@ -2561,9 +2461,9 @@
         "id": 694973,
         "name": "Paul Skenes",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694973/headshot/67/current",
-        "hitsPer9Inn": 6.38,
-        "hitsPer9Inn_site": 6.69,
-        "hitsPer9Inn_last_28_days": 8.28,
+        "hitsPer9Inn": 6.43,
+        "hitsPer9Inn_site": 6.8,
+        "hitsPer9Inn_last_28_days": 8.51,
         "hitsPer9Inn_vs_batter_side": 5.63
       },
       "projectedBattingOrder": 2,
@@ -2572,29 +2472,29 @@
         "ab": 3,
         "ops": 0.666
       },
-      "wtb_percent": 0.256,
-      "season_pa": 383,
+      "wtb_percent": 0.255,
+      "season_pa": 384,
       "ops_site": {
-        "pa": 180,
-        "ops": 0.859
+        "pa": 181,
+        "ops": 0.854
       },
       "ops_vs_pitcher_hand": {
         "pa": 274,
         "ops": 0.872
       },
       "ops_last_7_days": {
-        "pa": 31,
-        "ops": 0.443
+        "pa": 32,
+        "ops": 0.429
       },
       "score": 62,
       "h2h_share": 0.1133,
       "score_breakdown": {
-        "wtb": 24,
+        "wtb": 25,
         "h9_side": 0,
         "h9_28": 1,
         "ops_hand": 12,
         "ops_site": 5,
-        "last7": 1,
+        "last7": 0,
         "opp": 8,
         "h2h": 11
       },
@@ -2652,6 +2552,156 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "San Francisco Giants",
       "probablePitcherName": "Dean Kremer"
+    },
+    {
+      "id": 646240,
+      "name": "Rafael Devers",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/646240/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 665152,
+        "name": "Dean Kremer",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
+        "hitsPer9Inn": 8.8,
+        "hitsPer9Inn_site": 10.15,
+        "hitsPer9Inn_last_28_days": 7.96,
+        "hitsPer9Inn_vs_batter_side": 9.19
+      },
+      "projectedBattingOrder": 2,
+      "projected_pa": 4.4,
+      "ops_vs_pitcher": {
+        "ab": 2,
+        "ops": 0
+      },
+      "wtb_percent": 0.214,
+      "season_pa": 603,
+      "ops_site": {
+        "pa": 317,
+        "ops": 0.888
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 398,
+        "ops": 0.908
+      },
+      "ops_last_7_days": {
+        "pa": 23,
+        "ops": 1.215
+      },
+      "score": 62,
+      "h2h_share": 0.12,
+      "score_breakdown": {
+        "wtb": 11,
+        "h9_side": 3,
+        "h9_28": 1,
+        "ops_hand": 12,
+        "ops_site": 5,
+        "last7": 10,
+        "opp": 8,
+        "h2h": 12
+      },
+      "gamePk": 776533,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Dean Kremer"
+    },
+    {
+      "id": 682829,
+      "name": "Elly De La Cruz",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682829/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 669461,
+        "name": "Matthew Liberatore",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
+        "hitsPer9Inn": 9.42,
+        "hitsPer9Inn_site": 9.04,
+        "hitsPer9Inn_last_28_days": 9.59,
+        "hitsPer9Inn_vs_batter_side": 9.27
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.3,
+      "ops_vs_pitcher": {
+        "ab": 1,
+        "ops": 0.5
+      },
+      "wtb_percent": 0.246,
+      "season_pa": 582,
+      "ops_site": {
+        "pa": 276,
+        "ops": 0.865
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 184,
+        "ops": 0.631
+      },
+      "ops_last_7_days": {
+        "pa": 29,
+        "ops": 0.69
+      },
+      "score": 61,
+      "h2h_share": 0.12,
+      "score_breakdown": {
+        "wtb": 21,
+        "h9_side": 4,
+        "h9_28": 2,
+        "ops_hand": 6,
+        "ops_site": 5,
+        "last7": 4,
+        "opp": 7,
+        "h2h": 12
+      },
+      "gamePk": 776551,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Cincinnati Reds",
+      "probablePitcherName": "Matthew Liberatore"
+    },
+    {
+      "id": 573262,
+      "name": "Mike Yastrzemski",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/573262/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 663978,
+        "name": "Chris Paddack",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
+        "hitsPer9Inn": 9.24,
+        "hitsPer9Inn_site": 9.4,
+        "hitsPer9Inn_last_28_days": 10.18,
+        "hitsPer9Inn_vs_batter_side": 8.45
+      },
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.49,
+      "ops_vs_pitcher": {
+        "ab": 21,
+        "ops": 1.153
+      },
+      "wtb_percent": 0.203,
+      "season_pa": 459,
+      "ops_site": {
+        "pa": 213,
+        "ops": 0.795
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 375,
+        "ops": 0.809
+      },
+      "ops_last_7_days": {
+        "pa": 21,
+        "ops": 1.113
+      },
+      "score": 61,
+      "h2h_share": 0.21765,
+      "score_breakdown": {
+        "wtb": 6,
+        "h9_side": 2,
+        "h9_28": 2,
+        "ops_hand": 8,
+        "ops_site": 3,
+        "last7": 10,
+        "opp": 8,
+        "h2h": 22
+      },
+      "gamePk": 776540,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Kansas City Royals",
+      "probablePitcherName": "Chris Paddack"
     },
     {
       "id": 666160,
@@ -2804,6 +2854,56 @@
       "probablePitcherName": "Jack Leiter"
     },
     {
+      "id": 621566,
+      "name": "Matt Olson",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 624133,
+        "name": "Ranger Suárez",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
+        "hitsPer9Inn": 8.38,
+        "hitsPer9Inn_site": 9.13,
+        "hitsPer9Inn_last_28_days": 9.41,
+        "hitsPer9Inn_vs_batter_side": 6.15
+      },
+      "projectedBattingOrder": 2,
+      "projected_pa": 4.59,
+      "ops_vs_pitcher": {
+        "ab": 11,
+        "ops": 0.84
+      },
+      "wtb_percent": 0.229,
+      "season_pa": 603,
+      "ops_site": {
+        "pa": 313,
+        "ops": 0.797
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 162,
+        "ops": 0.741
+      },
+      "ops_last_7_days": {
+        "pa": 34,
+        "ops": 0.772
+      },
+      "score": 60,
+      "h2h_share": 0.148,
+      "score_breakdown": {
+        "wtb": 16,
+        "h9_side": 0,
+        "h9_28": 2,
+        "ops_hand": 8,
+        "ops_site": 4,
+        "last7": 6,
+        "opp": 9,
+        "h2h": 15
+      },
+      "gamePk": 776552,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Atlanta Braves",
+      "probablePitcherName": "Ranger Suárez"
+    },
+    {
       "id": 661388,
       "name": "William Contreras",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/661388/headshot/67/current",
@@ -2811,9 +2911,9 @@
         "id": 669456,
         "name": "Shane Bieber",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669456/headshot/67/current",
-        "hitsPer9Inn": 4.5,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 4.5,
+        "hitsPer9Inn": 4,
+        "hitsPer9Inn_site": 6,
+        "hitsPer9Inn_last_28_days": 4,
         "hitsPer9Inn_vs_batter_side": 3
       },
       "projectedBattingOrder": 2,
@@ -2852,6 +2952,56 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Shane Bieber"
+    },
+    {
+      "id": 680757,
+      "name": "Steven Kwan",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680757/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 669923,
+        "name": "George Kirby",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
+        "hitsPer9Inn": 8.2,
+        "hitsPer9Inn_site": 8.74,
+        "hitsPer9Inn_last_28_days": 9.12,
+        "hitsPer9Inn_vs_batter_side": 9.3
+      },
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.49,
+      "ops_vs_pitcher": {
+        "ab": 2,
+        "ops": 0
+      },
+      "wtb_percent": 0.246,
+      "season_pa": 558,
+      "ops_site": {
+        "pa": 263,
+        "ops": 0.719
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 376,
+        "ops": 0.769
+      },
+      "ops_last_7_days": {
+        "pa": 25,
+        "ops": 0.414
+      },
+      "score": 60,
+      "h2h_share": 0.12,
+      "score_breakdown": {
+        "wtb": 22,
+        "h9_side": 4,
+        "h9_28": 2,
+        "ops_hand": 9,
+        "ops_site": 3,
+        "last7": 0,
+        "opp": 8,
+        "h2h": 12
+      },
+      "gamePk": 776547,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Cleveland Guardians",
+      "probablePitcherName": "George Kirby"
     },
     {
       "id": 696100,
@@ -3154,56 +3304,6 @@
       "probablePitcherName": "Seth Lugo"
     },
     {
-      "id": 521692,
-      "name": "Salvador Perez",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/521692/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 663978,
-        "name": "Chris Paddack",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
-        "hitsPer9Inn": 9.24,
-        "hitsPer9Inn_site": 9.4,
-        "hitsPer9Inn_last_28_days": 10.18,
-        "hitsPer9Inn_vs_batter_side": 10.18
-      },
-      "projectedBattingOrder": 5,
-      "projected_pa": 4.1,
-      "ops_vs_pitcher": {
-        "ab": 2,
-        "ops": 0
-      },
-      "wtb_percent": 0.229,
-      "season_pa": 528,
-      "ops_site": {
-        "pa": 250,
-        "ops": 0.735
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 408,
-        "ops": 0.796
-      },
-      "ops_last_7_days": {
-        "pa": 24,
-        "ops": 0.761
-      },
-      "score": 59,
-      "h2h_share": 0.12,
-      "score_breakdown": {
-        "wtb": 17,
-        "h9_side": 4,
-        "h9_28": 2,
-        "ops_hand": 10,
-        "ops_site": 3,
-        "last7": 6,
-        "opp": 5,
-        "h2h": 12
-      },
-      "gamePk": 776540,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Kansas City Royals",
-      "probablePitcherName": "Chris Paddack"
-    },
-    {
       "id": 656941,
       "name": "Kyle Schwarber",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
@@ -3211,30 +3311,30 @@
         "id": 693821,
         "name": "Bryce Elder",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
-        "hitsPer9Inn": 10.1,
-        "hitsPer9Inn_site": 8.7,
-        "hitsPer9Inn_last_28_days": 7.91,
+        "hitsPer9Inn": 10.19,
+        "hitsPer9Inn_site": 8.9,
+        "hitsPer9Inn_last_28_days": 8.29,
         "hitsPer9Inn_vs_batter_side": 9
       },
       "projectedBattingOrder": 2,
       "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "ab": 4,
-        "ops": 0.429
+        "ops": 0.2
       },
       "wtb_percent": 0.207,
-      "season_pa": 599,
+      "season_pa": 600,
       "ops_site": {
-        "pa": 287,
-        "ops": 1.039
+        "pa": 288,
+        "ops": 1.041
       },
       "ops_vs_pitcher_hand": {
         "pa": 375,
         "ops": 0.948
       },
       "ops_last_7_days": {
-        "pa": 33,
-        "ops": 0.896
+        "pa": 34,
+        "ops": 0.917
       },
       "score": 58,
       "h2h_share": 0.1,
@@ -3261,9 +3361,9 @@
         "id": 642547,
         "name": "Freddy Peralta",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
-        "hitsPer9Inn": 6.42,
-        "hitsPer9Inn_site": 6.3,
-        "hitsPer9Inn_last_28_days": 3.91,
+        "hitsPer9Inn": 6.41,
+        "hitsPer9Inn_site": 6.28,
+        "hitsPer9Inn_last_28_days": 4.01,
         "hitsPer9Inn_vs_batter_side": 5.86
       },
       "projectedBattingOrder": 3,
@@ -3304,48 +3404,48 @@
       "probablePitcherName": "Freddy Peralta"
     },
     {
-      "id": 680776,
-      "name": "Jarren Duran",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680776/headshot/67/current",
+      "id": 596115,
+      "name": "Trevor Story",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/596115/headshot/67/current",
       "probable_pitcher_splits": {
         "id": 694973,
         "name": "Paul Skenes",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694973/headshot/67/current",
-        "hitsPer9Inn": 6.38,
-        "hitsPer9Inn_site": 6.69,
-        "hitsPer9Inn_last_28_days": 8.28,
-        "hitsPer9Inn_vs_batter_side": 7.07
+        "hitsPer9Inn": 6.43,
+        "hitsPer9Inn_site": 6.8,
+        "hitsPer9Inn_last_28_days": 8.51,
+        "hitsPer9Inn_vs_batter_side": 5.63
       },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.3,
+      "projectedBattingOrder": 4,
+      "projected_pa": 4.2,
       "ops_vs_pitcher": {
         "ab": 1,
         "ops": 0
       },
-      "wtb_percent": 0.229,
-      "season_pa": 586,
+      "wtb_percent": 0.24,
+      "season_pa": 542,
       "ops_site": {
-        "pa": 284,
-        "ops": 0.877
+        "pa": 257,
+        "ops": 0.771
       },
       "ops_vs_pitcher_hand": {
-        "pa": 399,
-        "ops": 0.872
+        "pa": 395,
+        "ops": 0.727
       },
       "ops_last_7_days": {
-        "pa": 26,
-        "ops": 0.626
+        "pa": 30,
+        "ops": 0.838
       },
       "score": 58,
       "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 16,
-        "h9_side": 1,
+        "wtb": 20,
+        "h9_side": 0,
         "h9_28": 1,
-        "ops_hand": 12,
-        "ops_site": 5,
-        "last7": 4,
-        "opp": 7,
+        "ops_hand": 8,
+        "ops_site": 4,
+        "last7": 7,
+        "opp": 6,
         "h2h": 12
       },
       "gamePk": 776549,
@@ -3361,9 +3461,9 @@
         "id": 671106,
         "name": "Logan Allen",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671106/headshot/67/current",
-        "hitsPer9Inn": 9.39,
-        "hitsPer9Inn_site": 9.72,
-        "hitsPer9Inn_last_28_days": 11.76,
+        "hitsPer9Inn": 9.32,
+        "hitsPer9Inn_site": 9.59,
+        "hitsPer9Inn_last_28_days": 11.22,
         "hitsPer9Inn_vs_batter_side": 9.66
       },
       "projectedBattingOrder": 4,
@@ -3504,6 +3604,106 @@
       "probablePitcherName": "Blake Snell"
     },
     {
+      "id": 605141,
+      "name": "Mookie Betts",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605141/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 668678,
+        "name": "Zac Gallen",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668678/headshot/67/current",
+        "hitsPer9Inn": 8.77,
+        "hitsPer9Inn_site": 8.84,
+        "hitsPer9Inn_last_28_days": 8.38,
+        "hitsPer9Inn_vs_batter_side": 7.79
+      },
+      "projectedBattingOrder": 2,
+      "projected_pa": 4.4,
+      "ops_vs_pitcher": {
+        "ab": 6,
+        "ops": 1.5
+      },
+      "wtb_percent": 0.219,
+      "season_pa": 543,
+      "ops_site": {
+        "pa": 265,
+        "ops": 0.742
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 397,
+        "ops": 0.674
+      },
+      "ops_last_7_days": {
+        "pa": 25,
+        "ops": 0.829
+      },
+      "score": 58,
+      "h2h_share": 0.19,
+      "score_breakdown": {
+        "wtb": 13,
+        "h9_side": 2,
+        "h9_28": 1,
+        "ops_hand": 6,
+        "ops_site": 3,
+        "last7": 7,
+        "opp": 8,
+        "h2h": 18
+      },
+      "gamePk": 776534,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Los Angeles Dodgers",
+      "probablePitcherName": "Zac Gallen"
+    },
+    {
+      "id": 521692,
+      "name": "Salvador Perez",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/521692/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 663978,
+        "name": "Chris Paddack",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
+        "hitsPer9Inn": 9.24,
+        "hitsPer9Inn_site": 9.4,
+        "hitsPer9Inn_last_28_days": 10.18,
+        "hitsPer9Inn_vs_batter_side": 10.18
+      },
+      "projectedBattingOrder": 5,
+      "projected_pa": 4.1,
+      "ops_vs_pitcher": {
+        "ab": 6,
+        "ops": 0.453
+      },
+      "wtb_percent": 0.229,
+      "season_pa": 528,
+      "ops_site": {
+        "pa": 250,
+        "ops": 0.735
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 408,
+        "ops": 0.796
+      },
+      "ops_last_7_days": {
+        "pa": 24,
+        "ops": 0.761
+      },
+      "score": 57,
+      "h2h_share": 0.08265,
+      "score_breakdown": {
+        "wtb": 16,
+        "h9_side": 5,
+        "h9_28": 2,
+        "ops_hand": 11,
+        "ops_site": 4,
+        "last7": 6,
+        "opp": 5,
+        "h2h": 8
+      },
+      "gamePk": 776540,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Kansas City Royals",
+      "probablePitcherName": "Chris Paddack"
+    },
+    {
       "id": 593428,
       "name": "Xander Bogaerts",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/593428/headshot/67/current",
@@ -3552,56 +3752,6 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Zebby Matthews"
-    },
-    {
-      "id": 645277,
-      "name": "Ozzie Albies",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/645277/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 624133,
-        "name": "Ranger Suárez",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
-        "hitsPer9Inn": 8.3,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.17,
-        "hitsPer9Inn_vs_batter_side": 8.67
-      },
-      "projectedBattingOrder": 5,
-      "projected_pa": 4.28,
-      "ops_vs_pitcher": {
-        "ab": 25,
-        "ops": 0.948
-      },
-      "wtb_percent": 0.21,
-      "season_pa": 571,
-      "ops_site": {
-        "pa": 300,
-        "ops": 0.709
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 145,
-        "ops": 0.6
-      },
-      "ops_last_7_days": {
-        "pa": 32,
-        "ops": 0.99
-      },
-      "score": 56,
-      "h2h_share": 0.20919999999999997,
-      "score_breakdown": {
-        "wtb": 9,
-        "h9_side": 2,
-        "h9_28": 1,
-        "ops_hand": 4,
-        "ops_site": 2,
-        "last7": 9,
-        "opp": 7,
-        "h2h": 22
-      },
-      "gamePk": 776552,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Atlanta Braves",
-      "probablePitcherName": "Ranger Suárez"
     },
     {
       "id": 682998,
@@ -3654,56 +3804,6 @@
       "probablePitcherName": "Blake Snell"
     },
     {
-      "id": 605141,
-      "name": "Mookie Betts",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605141/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 668678,
-        "name": "Zac Gallen",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668678/headshot/67/current",
-        "hitsPer9Inn": 8.77,
-        "hitsPer9Inn_site": 8.84,
-        "hitsPer9Inn_last_28_days": 8.38,
-        "hitsPer9Inn_vs_batter_side": 7.79
-      },
-      "projectedBattingOrder": 2,
-      "projected_pa": 4.4,
-      "ops_vs_pitcher": {
-        "ab": 23,
-        "ops": 0.848
-      },
-      "wtb_percent": 0.219,
-      "season_pa": 543,
-      "ops_site": {
-        "pa": 265,
-        "ops": 0.742
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 397,
-        "ops": 0.674
-      },
-      "ops_last_7_days": {
-        "pa": 25,
-        "ops": 0.829
-      },
-      "score": 56,
-      "h2h_share": 0.1668,
-      "score_breakdown": {
-        "wtb": 13,
-        "h9_side": 2,
-        "h9_28": 1,
-        "ops_hand": 6,
-        "ops_site": 3,
-        "last7": 7,
-        "opp": 8,
-        "h2h": 16
-      },
-      "gamePk": 776534,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Los Angeles Dodgers",
-      "probablePitcherName": "Zac Gallen"
-    },
-    {
       "id": 575929,
       "name": "Willson Contreras",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/575929/headshot/67/current",
@@ -3711,9 +3811,9 @@
         "id": 641793,
         "name": "Zack Littell",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641793/headshot/67/current",
-        "hitsPer9Inn": 8.83,
-        "hitsPer9Inn_site": 9.23,
-        "hitsPer9Inn_last_28_days": 9.89,
+        "hitsPer9Inn": 8.77,
+        "hitsPer9Inn_site": 9.09,
+        "hitsPer9Inn_last_28_days": 9.49,
         "hitsPer9Inn_vs_batter_side": 9.07
       },
       "projectedBattingOrder": 4,
@@ -3761,9 +3861,9 @@
         "id": 671106,
         "name": "Logan Allen",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671106/headshot/67/current",
-        "hitsPer9Inn": 9.39,
-        "hitsPer9Inn_site": 9.72,
-        "hitsPer9Inn_last_28_days": 11.76,
+        "hitsPer9Inn": 9.32,
+        "hitsPer9Inn_site": 9.59,
+        "hitsPer9Inn_last_28_days": 11.22,
         "hitsPer9Inn_vs_batter_side": 9.66
       },
       "projectedBattingOrder": 1,
@@ -3773,28 +3873,28 @@
         "ops": 0.666
       },
       "wtb_percent": 0.207,
-      "season_pa": 580,
+      "season_pa": 581,
       "ops_site": {
-        "pa": 299,
-        "ops": 0.777
+        "pa": 300,
+        "ops": 0.779
       },
       "ops_vs_pitcher_hand": {
         "pa": 164,
         "ops": 0.814
       },
       "ops_last_7_days": {
-        "pa": 29,
-        "ops": 0.741
+        "pa": 30,
+        "ops": 0.767
       },
       "score": 55,
       "h2h_share": 0.1133,
       "score_breakdown": {
-        "wtb": 8,
+        "wtb": 7,
         "h9_side": 4,
         "h9_28": 3,
         "ops_hand": 10,
         "ops_site": 4,
-        "last7": 5,
+        "last7": 6,
         "opp": 10,
         "h2h": 11
       },
@@ -3802,6 +3902,56 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "Logan Allen"
+    },
+    {
+      "id": 642201,
+      "name": "Eli White",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642201/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 624133,
+        "name": "Ranger Suárez",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
+        "hitsPer9Inn": 8.38,
+        "hitsPer9Inn_site": 9.13,
+        "hitsPer9Inn_last_28_days": 9.41,
+        "hitsPer9Inn_vs_batter_side": 8.67
+      },
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.69,
+      "ops_vs_pitcher": {
+        "ab": 2,
+        "ops": 1
+      },
+      "wtb_percent": 0.221,
+      "season_pa": 249,
+      "ops_site": {
+        "pa": 142,
+        "ops": 0.706
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 86,
+        "ops": 0.577
+      },
+      "ops_last_7_days": {
+        "pa": 3,
+        "ops": 0.666
+      },
+      "score": 54,
+      "h2h_share": 0.12,
+      "score_breakdown": {
+        "wtb": 14,
+        "h9_side": 3,
+        "h9_28": 2,
+        "ops_hand": 5,
+        "ops_site": 4,
+        "last7": 4,
+        "opp": 10,
+        "h2h": 12
+      },
+      "gamePk": 776552,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Atlanta Braves",
+      "probablePitcherName": "Ranger Suárez"
     },
     {
       "id": 668901,
@@ -3854,56 +4004,6 @@
       "probablePitcherName": "Eury Pérez"
     },
     {
-      "id": 666176,
-      "name": "Jo Adell",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666176/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 664299,
-        "name": "Cristian Javier",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664299/headshot/67/current",
-        "hitsPer9Inn": 8.1,
-        "hitsPer9Inn_site": 6.75,
-        "hitsPer9Inn_last_28_days": 8.1,
-        "hitsPer9Inn_vs_batter_side": 8.31
-      },
-      "projectedBattingOrder": 4,
-      "projected_pa": 4.39,
-      "ops_vs_pitcher": {
-        "ab": 1,
-        "ops": 0
-      },
-      "wtb_percent": 0.214,
-      "season_pa": 472,
-      "ops_site": {
-        "pa": 224,
-        "ops": 0.748
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 380,
-        "ops": 0.743
-      },
-      "ops_last_7_days": {
-        "pa": 22,
-        "ops": 0.937
-      },
-      "score": 54,
-      "h2h_share": 0.12,
-      "score_breakdown": {
-        "wtb": 11,
-        "h9_side": 2,
-        "h9_28": 1,
-        "ops_hand": 8,
-        "ops_site": 3,
-        "last7": 8,
-        "opp": 7,
-        "h2h": 14
-      },
-      "gamePk": 776543,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Los Angeles Angels",
-      "probablePitcherName": "Cristian Javier"
-    },
-    {
       "id": 663330,
       "name": "Jahmai Jones",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663330/headshot/67/current",
@@ -3954,6 +4054,106 @@
       "probablePitcherName": "Seth Lugo"
     },
     {
+      "id": 670770,
+      "name": "TJ Friedl",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670770/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 669461,
+        "name": "Matthew Liberatore",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
+        "hitsPer9Inn": 9.42,
+        "hitsPer9Inn_site": 9.04,
+        "hitsPer9Inn_last_28_days": 9.59,
+        "hitsPer9Inn_vs_batter_side": 9.91
+      },
+      "projectedBattingOrder": 1,
+      "projected_pa": 4.49,
+      "ops_vs_pitcher": {
+        "ab": 1,
+        "ops": 0
+      },
+      "wtb_percent": 0.225,
+      "season_pa": 561,
+      "ops_site": {
+        "pa": 251,
+        "ops": 0.68
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 160,
+        "ops": 0.656
+      },
+      "ops_last_7_days": {
+        "pa": 25,
+        "ops": 0.547
+      },
+      "score": 53,
+      "h2h_share": 0.12,
+      "score_breakdown": {
+        "wtb": 16,
+        "h9_side": 4,
+        "h9_28": 2,
+        "ops_hand": 6,
+        "ops_site": 3,
+        "last7": 2,
+        "opp": 8,
+        "h2h": 12
+      },
+      "gamePk": 776551,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Cincinnati Reds",
+      "probablePitcherName": "Matthew Liberatore"
+    },
+    {
+      "id": 457705,
+      "name": "Andrew McCutchen",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/457705/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 801139,
+        "name": "Payton Tolle",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
+        "hitsPer9Inn": 3,
+        "hitsPer9Inn_site": 3,
+        "hitsPer9Inn_last_28_days": 3,
+        "hitsPer9Inn_vs_batter_side": null
+      },
+      "projectedBattingOrder": 5,
+      "projected_pa": 4.28,
+      "ops_vs_pitcher": {
+        "ab": 1,
+        "ops": 3
+      },
+      "wtb_percent": 0.209,
+      "season_pa": 464,
+      "ops_site": {
+        "pa": 219,
+        "ops": 0.707
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 122,
+        "ops": 0.782
+      },
+      "ops_last_7_days": {
+        "pa": 23,
+        "ops": 1.067
+      },
+      "score": 53,
+      "h2h_share": 0.12,
+      "score_breakdown": {
+        "wtb": 9,
+        "h9_side": 3,
+        "h9_28": 0,
+        "ops_hand": 9,
+        "ops_site": 3,
+        "last7": 10,
+        "opp": 7,
+        "h2h": 12
+      },
+      "gamePk": 776549,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Pittsburgh Pirates",
+      "probablePitcherName": "Payton Tolle"
+    },
+    {
       "id": 456781,
       "name": "Donovan Solano",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/456781/headshot/67/current",
@@ -3961,9 +4161,9 @@
         "id": 671106,
         "name": "Logan Allen",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671106/headshot/67/current",
-        "hitsPer9Inn": 9.39,
-        "hitsPer9Inn_site": 9.72,
-        "hitsPer9Inn_last_28_days": 11.76,
+        "hitsPer9Inn": 9.32,
+        "hitsPer9Inn_site": 9.59,
+        "hitsPer9Inn_last_28_days": 11.22,
         "hitsPer9Inn_vs_batter_side": 9.66
       },
       "projectedBattingOrder": 4,
@@ -3989,19 +4189,69 @@
       "score": 53,
       "h2h_share": 0.13495,
       "score_breakdown": {
-        "wtb": 18,
+        "wtb": 17,
         "h9_side": 5,
-        "h9_28": 4,
+        "h9_28": 3,
         "ops_hand": 2,
         "ops_site": 4,
         "last7": 0,
-        "opp": 7,
-        "h2h": 13
+        "opp": 8,
+        "h2h": 14
       },
       "gamePk": 776547,
       "gameDate": "2025-08-29",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "Logan Allen"
+    },
+    {
+      "id": 650859,
+      "name": "Luis Rengifo",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650859/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 664299,
+        "name": "Cristian Javier",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664299/headshot/67/current",
+        "hitsPer9Inn": 8.1,
+        "hitsPer9Inn_site": 6.75,
+        "hitsPer9Inn_last_28_days": 8.1,
+        "hitsPer9Inn_vs_batter_side": 8.44
+      },
+      "projectedBattingOrder": 5,
+      "projected_pa": 4.28,
+      "ops_vs_pitcher": {
+        "ab": 11,
+        "ops": 1.227
+      },
+      "wtb_percent": 0.227,
+      "season_pa": 458,
+      "ops_site": {
+        "pa": 231,
+        "ops": 0.642
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 364,
+        "ops": 0.648
+      },
+      "ops_last_7_days": {
+        "pa": 19,
+        "ops": 0.378
+      },
+      "score": 53,
+      "h2h_share": 0.20135000000000003,
+      "score_breakdown": {
+        "wtb": 16,
+        "h9_side": 2,
+        "h9_28": 1,
+        "ops_hand": 5,
+        "ops_site": 2,
+        "last7": 0,
+        "opp": 7,
+        "h2h": 20
+      },
+      "gamePk": 776543,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Los Angeles Angels",
+      "probablePitcherName": "Cristian Javier"
     },
     {
       "id": 545341,
@@ -4054,56 +4304,6 @@
       "probablePitcherName": "Chris Paddack"
     },
     {
-      "id": 573262,
-      "name": "Mike Yastrzemski",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/573262/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 663978,
-        "name": "Chris Paddack",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663978/headshot/67/current",
-        "hitsPer9Inn": 9.24,
-        "hitsPer9Inn_site": 9.4,
-        "hitsPer9Inn_last_28_days": 10.18,
-        "hitsPer9Inn_vs_batter_side": 8.45
-      },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.49,
-      "ops_vs_pitcher": {
-        "ab": 5,
-        "ops": 0.167
-      },
-      "wtb_percent": 0.203,
-      "season_pa": 459,
-      "ops_site": {
-        "pa": 213,
-        "ops": 0.795
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 375,
-        "ops": 0.809
-      },
-      "ops_last_7_days": {
-        "pa": 21,
-        "ops": 1.113
-      },
-      "score": 53,
-      "h2h_share": 0.09,
-      "score_breakdown": {
-        "wtb": 6,
-        "h9_side": 3,
-        "h9_28": 2,
-        "ops_hand": 11,
-        "ops_site": 4,
-        "last7": 10,
-        "opp": 8,
-        "h2h": 9
-      },
-      "gamePk": 776540,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Kansas City Royals",
-      "probablePitcherName": "Chris Paddack"
-    },
-    {
       "id": 680777,
       "name": "Ryan Jeffers",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680777/headshot/67/current",
@@ -4119,8 +4319,8 @@
       "projectedBattingOrder": 5,
       "projected_pa": 4.1,
       "ops_vs_pitcher": {
-        "ab": 2,
-        "ops": 2.5
+        "ab": 6,
+        "ops": 0.953
       },
       "wtb_percent": 0.227,
       "season_pa": 418,
@@ -4137,16 +4337,16 @@
         "ops": 0.499
       },
       "score": 53,
-      "h2h_share": 0.14,
+      "h2h_share": 0.15295,
       "score_breakdown": {
-        "wtb": 16,
+        "wtb": 15,
         "h9_side": 1,
         "h9_28": 1,
         "ops_hand": 11,
         "ops_site": 3,
         "last7": 2,
         "opp": 5,
-        "h2h": 14
+        "h2h": 15
       },
       "gamePk": 776541,
       "gameDate": "2025-08-29",
@@ -4304,56 +4504,6 @@
       "probablePitcherName": "Jeffrey Springs"
     },
     {
-      "id": 670770,
-      "name": "TJ Friedl",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670770/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 669461,
-        "name": "Matthew Liberatore",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
-        "hitsPer9Inn": 9.47,
-        "hitsPer9Inn_site": 9.13,
-        "hitsPer9Inn_last_28_days": 9.89,
-        "hitsPer9Inn_vs_batter_side": 9.91
-      },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.49,
-      "ops_vs_pitcher": {
-        "ab": 4,
-        "ops": 0.5
-      },
-      "wtb_percent": 0.225,
-      "season_pa": 561,
-      "ops_site": {
-        "pa": 251,
-        "ops": 0.68
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 160,
-        "ops": 0.656
-      },
-      "ops_last_7_days": {
-        "pa": 25,
-        "ops": 0.547
-      },
-      "score": 52,
-      "h2h_share": 0.1,
-      "score_breakdown": {
-        "wtb": 16,
-        "h9_side": 4,
-        "h9_28": 2,
-        "ops_hand": 7,
-        "ops_site": 3,
-        "last7": 2,
-        "opp": 8,
-        "h2h": 10
-      },
-      "gamePk": 776551,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Cincinnati Reds",
-      "probablePitcherName": "Matthew Liberatore"
-    },
-    {
       "id": 572233,
       "name": "Christian Walker",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/572233/headshot/67/current",
@@ -4454,56 +4604,6 @@
       "probablePitcherName": "Germán Márquez"
     },
     {
-      "id": 621566,
-      "name": "Matt Olson",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 624133,
-        "name": "Ranger Suárez",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
-        "hitsPer9Inn": 8.3,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.17,
-        "hitsPer9Inn_vs_batter_side": 6.15
-      },
-      "projectedBattingOrder": 2,
-      "projected_pa": 4.59,
-      "ops_vs_pitcher": {
-        "ab": 25,
-        "ops": 0.59
-      },
-      "wtb_percent": 0.229,
-      "season_pa": 603,
-      "ops_site": {
-        "pa": 313,
-        "ops": 0.797
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 162,
-        "ops": 0.741
-      },
-      "ops_last_7_days": {
-        "pa": 34,
-        "ops": 0.772
-      },
-      "score": 51,
-      "h2h_share": 0.03,
-      "score_breakdown": {
-        "wtb": 16,
-        "h9_side": 0,
-        "h9_28": 2,
-        "ops_hand": 10,
-        "ops_site": 5,
-        "last7": 6,
-        "opp": 9,
-        "h2h": 3
-      },
-      "gamePk": 776552,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Atlanta Braves",
-      "probablePitcherName": "Ranger Suárez"
-    },
-    {
       "id": 660162,
       "name": "Yoán Moncada",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660162/headshot/67/current",
@@ -4547,6 +4647,56 @@
         "last7": 8,
         "opp": 6,
         "h2h": 16
+      },
+      "gamePk": 776543,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Los Angeles Angels",
+      "probablePitcherName": "Cristian Javier"
+    },
+    {
+      "id": 666176,
+      "name": "Jo Adell",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666176/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 664299,
+        "name": "Cristian Javier",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664299/headshot/67/current",
+        "hitsPer9Inn": 8.1,
+        "hitsPer9Inn_site": 6.75,
+        "hitsPer9Inn_last_28_days": 8.1,
+        "hitsPer9Inn_vs_batter_side": 8.31
+      },
+      "projectedBattingOrder": 4,
+      "projected_pa": 4.39,
+      "ops_vs_pitcher": {
+        "ab": 7,
+        "ops": 0.286
+      },
+      "wtb_percent": 0.214,
+      "season_pa": 472,
+      "ops_site": {
+        "pa": 224,
+        "ops": 0.748
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 380,
+        "ops": 0.743
+      },
+      "ops_last_7_days": {
+        "pa": 22,
+        "ops": 0.937
+      },
+      "score": 51,
+      "h2h_share": 0.07,
+      "score_breakdown": {
+        "wtb": 11,
+        "h9_side": 3,
+        "h9_28": 1,
+        "ops_hand": 9,
+        "ops_site": 4,
+        "last7": 8,
+        "opp": 8,
+        "h2h": 7
       },
       "gamePk": 776543,
       "gameDate": "2025-08-29",
@@ -4654,106 +4804,6 @@
       "probablePitcherName": "Robbie Ray"
     },
     {
-      "id": 642715,
-      "name": "Willy Adames",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642715/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 665152,
-        "name": "Dean Kremer",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
-        "hitsPer9Inn": 8.8,
-        "hitsPer9Inn_site": 10.15,
-        "hitsPer9Inn_last_28_days": 7.96,
-        "hitsPer9Inn_vs_batter_side": 8.41
-      },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.3,
-      "ops_vs_pitcher": {
-        "ab": 9,
-        "ops": 1.333
-      },
-      "wtb_percent": 0.194,
-      "season_pa": 566,
-      "ops_site": {
-        "pa": 273,
-        "ops": 0.678
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 417,
-        "ops": 0.746
-      },
-      "ops_last_7_days": {
-        "pa": 27,
-        "ops": 1.188
-      },
-      "score": 51,
-      "h2h_share": 0.19665,
-      "score_breakdown": {
-        "wtb": 2,
-        "h9_side": 2,
-        "h9_28": 1,
-        "ops_hand": 7,
-        "ops_site": 2,
-        "last7": 10,
-        "opp": 7,
-        "h2h": 20
-      },
-      "gamePk": 776533,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "San Francisco Giants",
-      "probablePitcherName": "Dean Kremer"
-    },
-    {
-      "id": 642201,
-      "name": "Eli White",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642201/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 624133,
-        "name": "Ranger Suárez",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
-        "hitsPer9Inn": 8.3,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.17,
-        "hitsPer9Inn_vs_batter_side": 8.67
-      },
-      "projectedBattingOrder": 1,
-      "projected_pa": 4.69,
-      "ops_vs_pitcher": {
-        "ab": 10,
-        "ops": 0.2
-      },
-      "wtb_percent": 0.221,
-      "season_pa": 249,
-      "ops_site": {
-        "pa": 142,
-        "ops": 0.706
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 86,
-        "ops": 0.577
-      },
-      "ops_last_7_days": {
-        "pa": 3,
-        "ops": 0.666
-      },
-      "score": 50,
-      "h2h_share": 0.05,
-      "score_breakdown": {
-        "wtb": 15,
-        "h9_side": 4,
-        "h9_28": 2,
-        "ops_hand": 6,
-        "ops_site": 4,
-        "last7": 4,
-        "opp": 10,
-        "h2h": 5
-      },
-      "gamePk": 776552,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Atlanta Braves",
-      "probablePitcherName": "Ranger Suárez"
-    },
-    {
       "id": 666158,
       "name": "Gavin Lux",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666158/headshot/67/current",
@@ -4761,16 +4811,16 @@
         "id": 669461,
         "name": "Matthew Liberatore",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
-        "hitsPer9Inn": 9.47,
-        "hitsPer9Inn_site": 9.13,
-        "hitsPer9Inn_last_28_days": 9.89,
+        "hitsPer9Inn": 9.42,
+        "hitsPer9Inn_site": 9.04,
+        "hitsPer9Inn_last_28_days": 9.59,
         "hitsPer9Inn_vs_batter_side": 9.91
       },
       "projectedBattingOrder": 5,
       "projected_pa": 4.1,
       "ops_vs_pitcher": {
         "ab": 4,
-        "ops": 0.2
+        "ops": 0
       },
       "wtb_percent": 0.246,
       "season_pa": 415,
@@ -4789,11 +4839,11 @@
       "score": 49,
       "h2h_share": 0.1,
       "score_breakdown": {
-        "wtb": 23,
+        "wtb": 22,
         "h9_side": 4,
         "h9_28": 2,
         "ops_hand": 2,
-        "ops_site": 3,
+        "ops_site": 4,
         "last7": 0,
         "opp": 5,
         "h2h": 10
@@ -4804,6 +4854,106 @@
       "probablePitcherName": "Matthew Liberatore"
     },
     {
+      "id": 645277,
+      "name": "Ozzie Albies",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/645277/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 624133,
+        "name": "Ranger Suárez",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
+        "hitsPer9Inn": 8.38,
+        "hitsPer9Inn_site": 9.13,
+        "hitsPer9Inn_last_28_days": 9.41,
+        "hitsPer9Inn_vs_batter_side": 8.67
+      },
+      "projectedBattingOrder": 5,
+      "projected_pa": 4.28,
+      "ops_vs_pitcher": {
+        "ab": 1,
+        "ops": 0
+      },
+      "wtb_percent": 0.21,
+      "season_pa": 571,
+      "ops_site": {
+        "pa": 300,
+        "ops": 0.709
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 145,
+        "ops": 0.6
+      },
+      "ops_last_7_days": {
+        "pa": 32,
+        "ops": 0.99
+      },
+      "score": 49,
+      "h2h_share": 0.12,
+      "score_breakdown": {
+        "wtb": 9,
+        "h9_side": 3,
+        "h9_28": 2,
+        "ops_hand": 5,
+        "ops_site": 3,
+        "last7": 9,
+        "opp": 6,
+        "h2h": 12
+      },
+      "gamePk": 776552,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Atlanta Braves",
+      "probablePitcherName": "Ranger Suárez"
+    },
+    {
+      "id": 641584,
+      "name": "Jake Fraley",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641584/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 624133,
+        "name": "Ranger Suárez",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
+        "hitsPer9Inn": 8.38,
+        "hitsPer9Inn_site": 9.13,
+        "hitsPer9Inn_last_28_days": 9.41,
+        "hitsPer9Inn_vs_batter_side": 6.15
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.49,
+      "ops_vs_pitcher": {
+        "ab": 3,
+        "ops": 0
+      },
+      "wtb_percent": 0.211,
+      "season_pa": 199,
+      "ops_site": {
+        "pa": 110,
+        "ops": 0.788
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 9,
+        "ops": 0.476
+      },
+      "ops_last_7_days": {
+        "pa": 6,
+        "ops": 1.167
+      },
+      "score": 48,
+      "h2h_share": 0.11,
+      "score_breakdown": {
+        "wtb": 10,
+        "h9_side": 0,
+        "h9_28": 2,
+        "ops_hand": 2,
+        "ops_site": 4,
+        "last7": 10,
+        "opp": 8,
+        "h2h": 12
+      },
+      "gamePk": 776552,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Atlanta Braves",
+      "probablePitcherName": "Ranger Suárez"
+    },
+    {
       "id": 662139,
       "name": "Daulton Varsho",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/662139/headshot/67/current",
@@ -4811,9 +4961,9 @@
         "id": 642547,
         "name": "Freddy Peralta",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
-        "hitsPer9Inn": 6.42,
-        "hitsPer9Inn_site": 6.3,
-        "hitsPer9Inn_last_28_days": 3.91,
+        "hitsPer9Inn": 6.41,
+        "hitsPer9Inn_site": 6.28,
+        "hitsPer9Inn_last_28_days": 4.01,
         "hitsPer9Inn_vs_batter_side": 7.04
       },
       "projectedBattingOrder": 5,
@@ -4822,24 +4972,24 @@
         "ab": 4,
         "ops": 0.65
       },
-      "wtb_percent": 0.207,
-      "season_pa": 179,
+      "wtb_percent": 0.206,
+      "season_pa": 180,
       "ops_site": {
-        "pa": 94,
-        "ops": 0.882
+        "pa": 95,
+        "ops": 0.872
       },
       "ops_vs_pitcher_hand": {
         "pa": 145,
         "ops": 0.942
       },
       "ops_last_7_days": {
-        "pa": 23,
-        "ops": 0.808
+        "pa": 24,
+        "ops": 0.773
       },
-      "score": 49,
+      "score": 48,
       "h2h_share": 0.105,
       "score_breakdown": {
-        "wtb": 8,
+        "wtb": 7,
         "h9_side": 1,
         "h9_28": 0,
         "ops_hand": 14,
@@ -5004,104 +5154,54 @@
       "probablePitcherName": "Zac Gallen"
     },
     {
-      "id": 641584,
-      "name": "Jake Fraley",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641584/headshot/67/current",
+      "id": 669477,
+      "name": "Casey Schmitt",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669477/headshot/67/current",
       "probable_pitcher_splits": {
-        "id": 624133,
-        "name": "Ranger Suárez",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
-        "hitsPer9Inn": 8.3,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.17,
-        "hitsPer9Inn_vs_batter_side": 6.15
+        "id": 665152,
+        "name": "Dean Kremer",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
+        "hitsPer9Inn": 8.8,
+        "hitsPer9Inn_site": 10.15,
+        "hitsPer9Inn_last_28_days": 7.96,
+        "hitsPer9Inn_vs_batter_side": 8.41
       },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.49,
+      "projectedBattingOrder": 5,
+      "projected_pa": 4.1,
       "ops_vs_pitcher": {
-        "ab": 3,
+        "ab": 2,
         "ops": 0
       },
-      "wtb_percent": 0.211,
-      "season_pa": 199,
+      "wtb_percent": 0.216,
+      "season_pa": 259,
       "ops_site": {
-        "pa": 110,
-        "ops": 0.788
+        "pa": 128,
+        "ops": 0.696
       },
       "ops_vs_pitcher_hand": {
-        "pa": 9,
-        "ops": 0.476
+        "pa": 164,
+        "ops": 0.8
       },
       "ops_last_7_days": {
-        "pa": 6,
-        "ops": 1.167
+        "pa": 25,
+        "ops": 0.588
       },
-      "score": 47,
-      "h2h_share": 0.11,
+      "score": 48,
+      "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 9,
-        "h9_side": 0,
-        "h9_28": 2,
-        "ops_hand": 2,
-        "ops_site": 4,
-        "last7": 10,
-        "opp": 8,
-        "h2h": 12
-      },
-      "gamePk": 776552,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Atlanta Braves",
-      "probablePitcherName": "Ranger Suárez"
-    },
-    {
-      "id": 621493,
-      "name": "Taylor Ward",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621493/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 664299,
-        "name": "Cristian Javier",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664299/headshot/67/current",
-        "hitsPer9Inn": 8.1,
-        "hitsPer9Inn_site": 6.75,
-        "hitsPer9Inn_last_28_days": 8.1,
-        "hitsPer9Inn_vs_batter_side": 8.31
-      },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.49,
-      "ops_vs_pitcher": {
-        "ab": 6,
-        "ops": 0.143
-      },
-      "wtb_percent": 0.203,
-      "season_pa": 562,
-      "ops_site": {
-        "pa": 275,
-        "ops": 0.951
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 460,
-        "ops": 0.772
-      },
-      "ops_last_7_days": {
-        "pa": 23,
-        "ops": 0.725
-      },
-      "score": 47,
-      "h2h_share": 0.08,
-      "score_breakdown": {
-        "wtb": 6,
+        "wtb": 12,
         "h9_side": 3,
         "h9_28": 1,
         "ops_hand": 10,
-        "ops_site": 6,
-        "last7": 5,
-        "opp": 8,
-        "h2h": 8
+        "ops_site": 3,
+        "last7": 3,
+        "opp": 5,
+        "h2h": 11
       },
-      "gamePk": 776543,
+      "gamePk": 776533,
       "gameDate": "2025-08-29",
-      "opponentTeamName": "Los Angeles Angels",
-      "probablePitcherName": "Cristian Javier"
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Dean Kremer"
     },
     {
       "id": 666969,
@@ -5161,9 +5261,9 @@
         "id": 641793,
         "name": "Zack Littell",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641793/headshot/67/current",
-        "hitsPer9Inn": 8.83,
-        "hitsPer9Inn_site": 9.23,
-        "hitsPer9Inn_last_28_days": 9.89,
+        "hitsPer9Inn": 8.77,
+        "hitsPer9Inn_site": 9.09,
+        "hitsPer9Inn_last_28_days": 9.49,
         "hitsPer9Inn_vs_batter_side": 8.29
       },
       "projectedBattingOrder": 1,
@@ -5172,21 +5272,21 @@
         "ab": 3,
         "ops": 1
       },
-      "wtb_percent": 0.206,
-      "season_pa": 476,
+      "wtb_percent": 0.205,
+      "season_pa": 477,
       "ops_site": {
-        "pa": 245,
-        "ops": 0.617
+        "pa": 246,
+        "ops": 0.615
       },
       "ops_vs_pitcher_hand": {
         "pa": 323,
         "ops": 0.765
       },
       "ops_last_7_days": {
-        "pa": 28,
-        "ops": 0.417
+        "pa": 29,
+        "ops": 0.401
       },
-      "score": 46,
+      "score": 45,
       "h2h_share": 0.13,
       "score_breakdown": {
         "wtb": 7,
@@ -5196,62 +5296,12 @@
         "ops_site": 2,
         "last7": 0,
         "opp": 10,
-        "h2h": 14
+        "h2h": 13
       },
       "gamePk": 776551,
       "gameDate": "2025-08-29",
       "opponentTeamName": "St. Louis Cardinals",
       "probablePitcherName": "Zack Littell"
-    },
-    {
-      "id": 669477,
-      "name": "Casey Schmitt",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669477/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 665152,
-        "name": "Dean Kremer",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
-        "hitsPer9Inn": 8.8,
-        "hitsPer9Inn_site": 10.15,
-        "hitsPer9Inn_last_28_days": 7.96,
-        "hitsPer9Inn_vs_batter_side": 8.41
-      },
-      "projectedBattingOrder": 5,
-      "projected_pa": 4.1,
-      "ops_vs_pitcher": {
-        "ab": 5,
-        "ops": 0.4
-      },
-      "wtb_percent": 0.216,
-      "season_pa": 259,
-      "ops_site": {
-        "pa": 128,
-        "ops": 0.696
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 164,
-        "ops": 0.8
-      },
-      "ops_last_7_days": {
-        "pa": 25,
-        "ops": 0.588
-      },
-      "score": 46,
-      "h2h_share": 0.09,
-      "score_breakdown": {
-        "wtb": 12,
-        "h9_side": 3,
-        "h9_28": 1,
-        "ops_hand": 10,
-        "ops_site": 3,
-        "last7": 3,
-        "opp": 5,
-        "h2h": 9
-      },
-      "gamePk": 776533,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "San Francisco Giants",
-      "probablePitcherName": "Dean Kremer"
     },
     {
       "id": 663616,
@@ -5304,6 +5354,106 @@
       "probablePitcherName": "Nestor Cortes"
     },
     {
+      "id": 642715,
+      "name": "Willy Adames",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642715/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 665152,
+        "name": "Dean Kremer",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
+        "hitsPer9Inn": 8.8,
+        "hitsPer9Inn_site": 10.15,
+        "hitsPer9Inn_last_28_days": 7.96,
+        "hitsPer9Inn_vs_batter_side": 8.41
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.3,
+      "ops_vs_pitcher": {
+        "ab": 3,
+        "ops": 0
+      },
+      "wtb_percent": 0.194,
+      "season_pa": 566,
+      "ops_site": {
+        "pa": 273,
+        "ops": 0.678
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 417,
+        "ops": 0.746
+      },
+      "ops_last_7_days": {
+        "pa": 27,
+        "ops": 1.188
+      },
+      "score": 45,
+      "h2h_share": 0.11,
+      "score_breakdown": {
+        "wtb": 2,
+        "h9_side": 3,
+        "h9_28": 1,
+        "ops_hand": 9,
+        "ops_site": 3,
+        "last7": 10,
+        "opp": 7,
+        "h2h": 10
+      },
+      "gamePk": 776533,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Dean Kremer"
+    },
+    {
+      "id": 605137,
+      "name": "Josh Bell",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605137/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 605288,
+        "name": "Adrian Houser",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605288/headshot/67/current",
+        "hitsPer9Inn": 8.94,
+        "hitsPer9Inn_site": 10.37,
+        "hitsPer9Inn_last_28_days": 11.16,
+        "hitsPer9Inn_vs_batter_side": 9.98
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.3,
+      "ops_vs_pitcher": {
+        "ab": 11,
+        "ops": 0.773
+      },
+      "wtb_percent": 0.199,
+      "season_pa": 448,
+      "ops_site": {
+        "pa": 197,
+        "ops": 0.644
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 344,
+        "ops": 0.763
+      },
+      "ops_last_7_days": {
+        "pa": 18,
+        "ops": 0.533
+      },
+      "score": 44,
+      "h2h_share": 0.12919999999999998,
+      "score_breakdown": {
+        "wtb": 4,
+        "h9_side": 4,
+        "h9_28": 3,
+        "ops_hand": 9,
+        "ops_site": 2,
+        "last7": 2,
+        "opp": 7,
+        "h2h": 13
+      },
+      "gamePk": 776545,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Washington Nationals",
+      "probablePitcherName": "Adrian Houser"
+    },
+    {
       "id": 643217,
       "name": "Andrew Benintendi",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643217/headshot/67/current",
@@ -5354,6 +5504,56 @@
       "probablePitcherName": "Carlos Rodón"
     },
     {
+      "id": 621493,
+      "name": "Taylor Ward",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621493/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 664299,
+        "name": "Cristian Javier",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664299/headshot/67/current",
+        "hitsPer9Inn": 8.1,
+        "hitsPer9Inn_site": 6.75,
+        "hitsPer9Inn_last_28_days": 8.1,
+        "hitsPer9Inn_vs_batter_side": 8.31
+      },
+      "projectedBattingOrder": 3,
+      "projected_pa": 4.49,
+      "ops_vs_pitcher": {
+        "ab": 14,
+        "ops": 0.349
+      },
+      "wtb_percent": 0.203,
+      "season_pa": 562,
+      "ops_site": {
+        "pa": 275,
+        "ops": 0.951
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 460,
+        "ops": 0.772
+      },
+      "ops_last_7_days": {
+        "pa": 23,
+        "ops": 0.725
+      },
+      "score": 44,
+      "h2h_share": 0.04,
+      "score_breakdown": {
+        "wtb": 6,
+        "h9_side": 3,
+        "h9_28": 1,
+        "ops_hand": 11,
+        "ops_site": 6,
+        "last7": 5,
+        "opp": 8,
+        "h2h": 4
+      },
+      "gamePk": 776543,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Los Angeles Angels",
+      "probablePitcherName": "Cristian Javier"
+    },
+    {
       "id": 679529,
       "name": "Spencer Torkelson",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/679529/headshot/67/current",
@@ -5402,56 +5602,6 @@
       "gameDate": "2025-08-29",
       "opponentTeamName": "Detroit Tigers",
       "probablePitcherName": "Seth Lugo"
-    },
-    {
-      "id": 605137,
-      "name": "Josh Bell",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605137/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 605288,
-        "name": "Adrian Houser",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605288/headshot/67/current",
-        "hitsPer9Inn": 8.9,
-        "hitsPer9Inn_site": 10.33,
-        "hitsPer9Inn_last_28_days": 11.1,
-        "hitsPer9Inn_vs_batter_side": 9.98
-      },
-      "projectedBattingOrder": 3,
-      "projected_pa": 4.3,
-      "ops_vs_pitcher": {
-        "ab": 11,
-        "ops": 0.773
-      },
-      "wtb_percent": 0.199,
-      "season_pa": 447,
-      "ops_site": {
-        "pa": 196,
-        "ops": 0.641
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 344,
-        "ops": 0.763
-      },
-      "ops_last_7_days": {
-        "pa": 17,
-        "ops": 0.494
-      },
-      "score": 43,
-      "h2h_share": 0.12919999999999998,
-      "score_breakdown": {
-        "wtb": 4,
-        "h9_side": 4,
-        "h9_28": 3,
-        "ops_hand": 9,
-        "ops_site": 2,
-        "last7": 1,
-        "opp": 7,
-        "h2h": 13
-      },
-      "gamePk": 776545,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Washington Nationals",
-      "probablePitcherName": "Adrian Houser"
     },
     {
       "id": 656976,
@@ -5511,9 +5661,9 @@
         "id": 669923,
         "name": "George Kirby",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
-        "hitsPer9Inn": 8.31,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.62,
+        "hitsPer9Inn": 8.2,
+        "hitsPer9Inn_site": 8.74,
+        "hitsPer9Inn_last_28_days": 9.12,
         "hitsPer9Inn_vs_batter_side": 9.3
       },
       "projectedBattingOrder": 4,
@@ -5561,9 +5711,9 @@
         "id": 669923,
         "name": "George Kirby",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
-        "hitsPer9Inn": 8.31,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.62,
+        "hitsPer9Inn": 8.2,
+        "hitsPer9Inn_site": 8.74,
+        "hitsPer9Inn_last_28_days": 9.12,
         "hitsPer9Inn_vs_batter_side": 9.3
       },
       "projectedBattingOrder": 2,
@@ -5661,9 +5811,9 @@
         "id": 641793,
         "name": "Zack Littell",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641793/headshot/67/current",
-        "hitsPer9Inn": 8.83,
-        "hitsPer9Inn_site": 9.23,
-        "hitsPer9Inn_last_28_days": 9.89,
+        "hitsPer9Inn": 8.77,
+        "hitsPer9Inn_site": 9.09,
+        "hitsPer9Inn_last_28_days": 9.49,
         "hitsPer9Inn_vs_batter_side": 8.29
       },
       "projectedBattingOrder": 5,
@@ -5695,8 +5845,8 @@
         "ops_hand": 8,
         "ops_site": 3,
         "last7": 5,
-        "opp": 6,
-        "h2h": 12
+        "opp": 7,
+        "h2h": 11
       },
       "gamePk": 776551,
       "gameDate": "2025-08-29",
@@ -5711,9 +5861,9 @@
         "id": 694973,
         "name": "Paul Skenes",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694973/headshot/67/current",
-        "hitsPer9Inn": 6.38,
-        "hitsPer9Inn_site": 6.69,
-        "hitsPer9Inn_last_28_days": 8.28,
+        "hitsPer9Inn": 6.43,
+        "hitsPer9Inn_site": 6.8,
+        "hitsPer9Inn_last_28_days": 8.51,
         "hitsPer9Inn_vs_batter_side": 7.07
       },
       "projectedBattingOrder": 5,
@@ -5761,9 +5911,9 @@
         "id": 669923,
         "name": "George Kirby",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
-        "hitsPer9Inn": 8.31,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.62,
+        "hitsPer9Inn": 8.2,
+        "hitsPer9Inn_site": 8.74,
+        "hitsPer9Inn_last_28_days": 9.12,
         "hitsPer9Inn_vs_batter_side": 9.3
       },
       "projectedBattingOrder": 2,
@@ -5795,8 +5945,8 @@
         "ops_hand": 8,
         "ops_site": 2,
         "last7": 0,
-        "opp": 7,
-        "h2h": 12
+        "opp": 8,
+        "h2h": 11
       },
       "gamePk": 776547,
       "gameDate": "2025-08-29",
@@ -5811,16 +5961,16 @@
         "id": 669923,
         "name": "George Kirby",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
-        "hitsPer9Inn": 8.31,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.62,
+        "hitsPer9Inn": 8.2,
+        "hitsPer9Inn_site": 8.74,
+        "hitsPer9Inn_last_28_days": 9.12,
         "hitsPer9Inn_vs_batter_side": 9.3
       },
       "projectedBattingOrder": 5,
       "projected_pa": 4.1,
       "ops_vs_pitcher": {
-        "ab": 6,
-        "ops": 1.166
+        "ab": 3,
+        "ops": 1.666
       },
       "wtb_percent": 0.196,
       "season_pa": 455,
@@ -5836,17 +5986,17 @@
         "pa": 7,
         "ops": 0.429
       },
-      "score": 39,
-      "h2h_share": 0.1766,
+      "score": 37,
+      "h2h_share": 0.16,
       "score_breakdown": {
         "wtb": 3,
-        "h9_side": 3,
+        "h9_side": 4,
         "h9_28": 2,
         "ops_hand": 6,
         "ops_site": 2,
         "last7": 0,
         "opp": 5,
-        "h2h": 18
+        "h2h": 15
       },
       "gamePk": 776547,
       "gameDate": "2025-08-29",
@@ -5861,16 +6011,16 @@
         "id": 624133,
         "name": "Ranger Suárez",
         "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
-        "hitsPer9Inn": 8.3,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 9.17,
+        "hitsPer9Inn": 8.38,
+        "hitsPer9Inn_site": 9.13,
+        "hitsPer9Inn_last_28_days": 9.41,
         "hitsPer9Inn_vs_batter_side": 8.67
       },
       "projectedBattingOrder": 5,
       "projected_pa": 4.28,
       "ops_vs_pitcher": {
-        "ab": 25,
-        "ops": 0.813
+        "ab": 1,
+        "ops": 0
       },
       "wtb_percent": 0.186,
       "season_pa": 512,
@@ -5886,22 +6036,72 @@
         "pa": 25,
         "ops": 0.39
       },
-      "score": 38,
-      "h2h_share": 0.15519999999999995,
+      "score": 36,
+      "h2h_share": 0.12,
       "score_breakdown": {
         "wtb": 0,
         "h9_side": 3,
         "h9_28": 2,
-        "ops_hand": 9,
+        "ops_hand": 10,
         "ops_site": 3,
         "last7": 0,
         "opp": 6,
-        "h2h": 15
+        "h2h": 12
       },
       "gamePk": 776552,
       "gameDate": "2025-08-29",
       "opponentTeamName": "Atlanta Braves",
       "probablePitcherName": "Ranger Suárez"
+    },
+    {
+      "id": 683734,
+      "name": "Andrew Vaughn",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683734/headshot/67/current",
+      "probable_pitcher_splits": {
+        "id": 669456,
+        "name": "Shane Bieber",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669456/headshot/67/current",
+        "hitsPer9Inn": 4,
+        "hitsPer9Inn_site": 6,
+        "hitsPer9Inn_last_28_days": 4,
+        "hitsPer9Inn_vs_batter_side": 3
+      },
+      "projectedBattingOrder": 4,
+      "projected_pa": 4.39,
+      "ops_vs_pitcher": {
+        "ab": 18,
+        "ops": 0.378
+      },
+      "wtb_percent": 0.217,
+      "season_pa": 369,
+      "ops_site": {
+        "pa": 189,
+        "ops": 0.622
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 262,
+        "ops": 0.646
+      },
+      "ops_last_7_days": {
+        "pa": 26,
+        "ops": 0.451
+      },
+      "score": 34,
+      "h2h_share": 0.04,
+      "score_breakdown": {
+        "wtb": 12,
+        "h9_side": 0,
+        "h9_28": 0,
+        "ops_hand": 7,
+        "ops_site": 3,
+        "last7": 1,
+        "opp": 7,
+        "h2h": 4
+      },
+      "gamePk": 776546,
+      "gameDate": "2025-08-29",
+      "opponentTeamName": "Milwaukee Brewers",
+      "probablePitcherName": "Shane Bieber"
     },
     {
       "id": 545361,
@@ -5919,8 +6119,8 @@
       "projectedBattingOrder": 2,
       "projected_pa": 4.59,
       "ops_vs_pitcher": {
-        "ab": 3,
-        "ops": 0
+        "ab": 12,
+        "ops": 0.143
       },
       "wtb_percent": 0.19,
       "season_pa": 448,
@@ -5936,72 +6136,22 @@
         "pa": 19,
         "ops": 0.161
       },
-      "score": 38,
-      "h2h_share": 0.11,
+      "score": 34,
+      "h2h_share": 0.05,
       "score_breakdown": {
         "wtb": 0,
         "h9_side": 3,
         "h9_28": 1,
-        "ops_hand": 11,
-        "ops_site": 3,
+        "ops_hand": 12,
+        "ops_site": 4,
         "last7": 0,
         "opp": 9,
-        "h2h": 11
+        "h2h": 5
       },
       "gamePk": 776543,
       "gameDate": "2025-08-29",
       "opponentTeamName": "Los Angeles Angels",
       "probablePitcherName": "Cristian Javier"
-    },
-    {
-      "id": 683734,
-      "name": "Andrew Vaughn",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683734/headshot/67/current",
-      "probable_pitcher_splits": {
-        "id": 669456,
-        "name": "Shane Bieber",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669456/headshot/67/current",
-        "hitsPer9Inn": 4.5,
-        "hitsPer9Inn_site": 9,
-        "hitsPer9Inn_last_28_days": 4.5,
-        "hitsPer9Inn_vs_batter_side": 3
-      },
-      "projectedBattingOrder": 4,
-      "projected_pa": 4.39,
-      "ops_vs_pitcher": {
-        "ab": 7,
-        "ops": 0
-      },
-      "wtb_percent": 0.217,
-      "season_pa": 369,
-      "ops_site": {
-        "pa": 189,
-        "ops": 0.622
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 262,
-        "ops": 0.646
-      },
-      "ops_last_7_days": {
-        "pa": 26,
-        "ops": 0.451
-      },
-      "score": 37,
-      "h2h_share": 0.07,
-      "score_breakdown": {
-        "wtb": 12,
-        "h9_side": 0,
-        "h9_28": 0,
-        "ops_hand": 7,
-        "ops_site": 2,
-        "last7": 1,
-        "opp": 8,
-        "h2h": 7
-      },
-      "gamePk": 776546,
-      "gameDate": "2025-08-29",
-      "opponentTeamName": "Milwaukee Brewers",
-      "probablePitcherName": "Shane Bieber"
     },
     {
       "id": 457759,
