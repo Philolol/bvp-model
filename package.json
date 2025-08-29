@@ -1,0 +1,9 @@
+{
+  "name": "bvp-model",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/buildDaily.js",
+    "build:date": "node src/buildDaily.js --date"
+  }
+}
