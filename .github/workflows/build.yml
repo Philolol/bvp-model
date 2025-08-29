@@ -1,0 +1,25 @@
+name: Build daily JSON
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 07:00 PT
+    - cron: "0 20 * * *"   # 18:00 PT
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Build JSON
+        run: node src/buildDaily.js
+      - name: Commit JSON
+        run: |
+          git config user.name "ci-bot"
+          git config user.email "ci@example.com"
+          git add api/*.json || true
+          git commit -m "Update daily JSON" || echo "No changes to commit"
+          git push
