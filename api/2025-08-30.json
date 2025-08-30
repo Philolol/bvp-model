@@ -39,17 +39,17 @@
         "ops": 1.116
       },
       "site": "Home",
-      "score": 74,
-      "h2h_share": 0.06,
+      "score": 77,
+      "h2h_share": 0.1,
       "score_breakdown": {
-        "wtb": 30,
+        "wtb": 29,
         "h9_side": 3,
         "h9_28": 2,
-        "ops_hand": 11,
-        "ops_site": 6,
+        "ops_hand": 15,
+        "ops_site": 5,
         "last7": 10,
-        "opp": 6,
-        "h2h": 6
+        "opp": 3,
+        "h2h": 10
       },
       "gamePk": 776527,
       "gameDate": "2025-08-30",
@@ -92,16 +92,16 @@
         "ops": 0.742
       },
       "site": "Home",
-      "score": 87,
+      "score": 86,
       "h2h_share": 0.28,
       "score_breakdown": {
-        "wtb": 30,
+        "wtb": 29,
         "h9_side": 4,
         "h9_28": 2,
-        "ops_hand": 7,
+        "ops_hand": 11,
         "ops_site": 3,
         "last7": 5,
-        "opp": 8,
+        "opp": 4,
         "h2h": 28
       },
       "gamePk": 776531,
@@ -148,13 +148,13 @@
       "score": 78,
       "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 29,
+        "wtb": 28,
         "h9_side": 3,
         "h9_28": 3,
-        "ops_hand": 11,
+        "ops_hand": 16,
         "ops_site": 4,
         "last7": 8,
-        "opp": 8,
+        "opp": 4,
         "h2h": 12
       },
       "gamePk": 776528,
@@ -198,16 +198,16 @@
         "ops": 0.786
       },
       "site": "Home",
-      "score": 72,
+      "score": 73,
       "h2h_share": 0.12,
       "score_breakdown": {
         "wtb": 28,
         "h9_side": 3,
         "h9_28": 3,
-        "ops_hand": 10,
+        "ops_hand": 14,
         "ops_site": 4,
         "last7": 6,
-        "opp": 6,
+        "opp": 3,
         "h2h": 12
       },
       "gamePk": 776528,
@@ -254,13 +254,13 @@
       "score": 87,
       "h2h_share": 0.2909333333333333,
       "score_breakdown": {
-        "wtb": 27,
+        "wtb": 28,
         "h9_side": 4,
         "h9_28": 1,
-        "ops_hand": 7,
+        "ops_hand": 10,
         "ops_site": 3,
         "last7": 9,
-        "opp": 7,
+        "opp": 3,
         "h2h": 29
       },
       "gamePk": 776523,
@@ -307,13 +307,13 @@
       "score": 61,
       "h2h_share": 0.14,
       "score_breakdown": {
-        "wtb": 20,
+        "wtb": 21,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 9,
+        "ops_hand": 12,
         "ops_site": 3,
         "last7": 8,
-        "opp": 7,
+        "opp": 3,
         "h2h": 14
       },
       "gamePk": 776523,
@@ -338,8 +338,8 @@
       "projectedBattingOrder": 3,
       "projected_pa": 4.49,
       "ops_vs_pitcher": {
-        "pa": 6,
-        "ab": 6,
+        "pa": 9,
+        "ab": 9,
         "ops": 0
       },
       "wtb_percent": 0.261,
@@ -357,17 +357,17 @@
         "ops": 0.833
       },
       "site": "Away",
-      "score": 62,
-      "h2h_share": 0.05,
+      "score": 61,
+      "h2h_share": 0.04,
       "score_breakdown": {
         "wtb": 26,
         "h9_side": 1,
         "h9_28": 2,
-        "ops_hand": 9,
+        "ops_hand": 13,
         "ops_site": 4,
         "last7": 7,
-        "opp": 8,
-        "h2h": 5
+        "opp": 4,
+        "h2h": 4
       },
       "gamePk": 776536,
       "gameDate": "2025-08-30",
@@ -410,17 +410,17 @@
         "ops": 1.213
       },
       "site": "Away",
-      "score": 73,
-      "h2h_share": 0.06,
+      "score": 75,
+      "h2h_share": 0.1,
       "score_breakdown": {
         "wtb": 27,
         "h9_side": 3,
-        "h9_28": 4,
-        "ops_hand": 11,
+        "h9_28": 3,
+        "ops_hand": 14,
         "ops_site": 4,
         "last7": 10,
-        "opp": 8,
-        "h2h": 6
+        "opp": 4,
+        "h2h": 10
       },
       "gamePk": 776525,
       "gameDate": "2025-08-30",
@@ -444,9 +444,9 @@
       "projectedBattingOrder": 1,
       "projected_pa": 4.69,
       "ops_vs_pitcher": {
-        "pa": 3,
-        "ab": 2,
-        "ops": 0.333
+        "pa": 8,
+        "ab": 6,
+        "ops": 0.542
       },
       "wtb_percent": 0.258,
       "season_pa": 534,
@@ -463,17 +463,17 @@
         "ops": 0.323
       },
       "site": "Away",
-      "score": 58,
-      "h2h_share": 0.10665,
+      "score": 52,
+      "h2h_share": 0.0771,
       "score_breakdown": {
         "wtb": 25,
         "h9_side": 3,
         "h9_28": 1,
-        "ops_hand": 5,
+        "ops_hand": 7,
         "ops_site": 3,
         "last7": 0,
-        "opp": 10,
-        "h2h": 11
+        "opp": 5,
+        "h2h": 8
       },
       "gamePk": 776535,
       "gameDate": "2025-08-30",
@@ -516,16 +516,16 @@
         "ops": 0.317
       },
       "site": "Away",
-      "score": 76,
+      "score": 75,
       "h2h_share": 0.29,
       "score_breakdown": {
-        "wtb": 26,
+        "wtb": 25,
         "h9_side": 2,
         "h9_28": 2,
-        "ops_hand": 6,
+        "ops_hand": 10,
         "ops_site": 3,
         "last7": 0,
-        "opp": 8,
+        "opp": 4,
         "h2h": 29
       },
       "gamePk": 776530,
@@ -569,17 +569,17 @@
         "ops": 0.913
       },
       "site": "Away",
-      "score": 65,
-      "h2h_share": 0.06,
+      "score": 67,
+      "h2h_share": 0.1,
       "score_breakdown": {
-        "wtb": 26,
+        "wtb": 25,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 11,
+        "ops_hand": 15,
         "ops_site": 4,
         "last7": 8,
-        "opp": 10,
-        "h2h": 6
+        "opp": 5,
+        "h2h": 10
       },
       "gamePk": 776527,
       "gameDate": "2025-08-30",
@@ -622,16 +622,16 @@
         "ops": 0.794
       },
       "site": "Home",
-      "score": 70,
+      "score": 69,
       "h2h_share": 0.14,
       "score_breakdown": {
         "wtb": 25,
         "h9_side": 5,
         "h9_28": 2,
-        "ops_hand": 7,
+        "ops_hand": 10,
         "ops_site": 3,
         "last7": 6,
-        "opp": 8,
+        "opp": 4,
         "h2h": 14
       },
       "gamePk": 776531,
@@ -656,9 +656,9 @@
       "projectedBattingOrder": 3,
       "projected_pa": 4.3,
       "ops_vs_pitcher": {
-        "pa": 2,
-        "ab": 2,
-        "ops": 0
+        "pa": 5,
+        "ab": 5,
+        "ops": 1.4
       },
       "wtb_percent": 0.256,
       "season_pa": 477,
@@ -675,17 +675,17 @@
         "ops": 0.667
       },
       "site": "Home",
-      "score": 67,
-      "h2h_share": 0.1,
+      "score": 78,
+      "h2h_share": 0.28,
       "score_breakdown": {
-        "wtb": 25,
-        "h9_side": 4,
-        "h9_28": 2,
+        "wtb": 26,
+        "h9_side": 2,
+        "h9_28": 1,
         "ops_hand": 11,
-        "ops_site": 4,
+        "ops_site": 3,
         "last7": 4,
-        "opp": 7,
-        "h2h": 10
+        "opp": 3,
+        "h2h": 28
       },
       "gamePk": 776526,
       "gameDate": "2025-08-30",
@@ -728,16 +728,16 @@
         "ops": 1.357
       },
       "site": "Home",
-      "score": 81,
+      "score": 82,
       "h2h_share": 0.17,
       "score_breakdown": {
-        "wtb": 26,
+        "wtb": 25,
         "h9_side": 2,
         "h9_28": 1,
-        "ops_hand": 12,
+        "ops_hand": 18,
         "ops_site": 5,
         "last7": 10,
-        "opp": 8,
+        "opp": 4,
         "h2h": 17
       },
       "gamePk": 776527,
@@ -781,16 +781,16 @@
         "ops": 0.879
       },
       "site": "Home",
-      "score": 57,
+      "score": 56,
       "h2h_share": 0.175,
       "score_breakdown": {
         "wtb": 19,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 4,
+        "ops_hand": 6,
         "ops_site": 3,
         "last7": 7,
-        "opp": 6,
+        "opp": 3,
         "h2h": 18
       },
       "gamePk": 776516,
@@ -815,9 +815,9 @@
       "projectedBattingOrder": 3,
       "projected_pa": 4.3,
       "ops_vs_pitcher": {
-        "pa": 5,
-        "ab": 5,
-        "ops": 1
+        "pa": 13,
+        "ab": 13,
+        "ops": 0.846
       },
       "wtb_percent": 0.251,
       "season_pa": 549,
@@ -834,17 +834,17 @@
         "ops": 0.343
       },
       "site": "Home",
-      "score": 68,
-      "h2h_share": 0.23,
+      "score": 66,
+      "h2h_share": 0.18599999999999997,
       "score_breakdown": {
-        "wtb": 23,
+        "wtb": 24,
         "h9_side": 1,
         "h9_28": 1,
-        "ops_hand": 9,
+        "ops_hand": 14,
         "ops_site": 4,
         "last7": 0,
-        "opp": 7,
-        "h2h": 23
+        "opp": 3,
+        "h2h": 19
       },
       "gamePk": 776537,
       "gameDate": "2025-08-30",
@@ -887,16 +887,16 @@
         "ops": 1.013
       },
       "site": "Away",
-      "score": 80,
+      "score": 81,
       "h2h_share": 0.22680000000000003,
       "score_breakdown": {
-        "wtb": 22,
+        "wtb": 21,
         "h9_side": 1,
         "h9_28": 1,
-        "ops_hand": 12,
+        "ops_hand": 18,
         "ops_site": 3,
         "last7": 9,
-        "opp": 9,
+        "opp": 5,
         "h2h": 23
       },
       "gamePk": 776536,
@@ -940,16 +940,16 @@
         "ops": 0.164
       },
       "site": "Home",
-      "score": 62,
+      "score": 63,
       "h2h_share": 0.12,
       "score_breakdown": {
         "wtb": 23,
         "h9_side": 3,
         "h9_28": 2,
-        "ops_hand": 11,
+        "ops_hand": 16,
         "ops_site": 4,
         "last7": 0,
-        "opp": 7,
+        "opp": 3,
         "h2h": 12
       },
       "gamePk": 776527,
@@ -996,13 +996,13 @@
       "score": 65,
       "h2h_share": 0.07,
       "score_breakdown": {
-        "wtb": 21,
+        "wtb": 22,
         "h9_side": 6,
         "h9_28": 3,
-        "ops_hand": 11,
-        "ops_site": 5,
+        "ops_hand": 15,
+        "ops_site": 4,
         "last7": 5,
-        "opp": 7,
+        "opp": 3,
         "h2h": 7
       },
       "gamePk": 776531,
@@ -1052,10 +1052,10 @@
         "wtb": 22,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 12,
+        "ops_hand": 17,
         "ops_site": 5,
         "last7": 3,
-        "opp": 10,
+        "opp": 5,
         "h2h": 20
       },
       "gamePk": 776523,
@@ -1099,16 +1099,16 @@
         "ops": 1.153
       },
       "site": "Away",
-      "score": 81,
+      "score": 79,
       "h2h_share": 0.26216666666666666,
       "score_breakdown": {
         "wtb": 22,
         "h9_side": 1,
         "h9_28": 2,
-        "ops_hand": 7,
+        "ops_hand": 10,
         "ops_site": 3,
         "last7": 10,
-        "opp": 10,
+        "opp": 5,
         "h2h": 26
       },
       "gamePk": 776531,
@@ -1158,10 +1158,10 @@
         "wtb": 19,
         "h9_side": 2,
         "h9_28": 1,
-        "ops_hand": 8,
+        "ops_hand": 12,
         "ops_site": 3,
         "last7": 5,
-        "opp": 8,
+        "opp": 4,
         "h2h": 29
       },
       "gamePk": 776532,
@@ -1186,9 +1186,9 @@
       "projectedBattingOrder": 1,
       "projected_pa": 4.49,
       "ops_vs_pitcher": {
-        "pa": 3,
-        "ab": 2,
-        "ops": 0.833
+        "pa": 9,
+        "ab": 8,
+        "ops": 0.472
       },
       "wtb_percent": 0.244,
       "season_pa": 562,
@@ -1205,17 +1205,17 @@
         "ops": 0.336
       },
       "site": "Home",
-      "score": 58,
-      "h2h_share": 0.15319999999999998,
+      "score": 51,
+      "h2h_share": 0.06359999999999999,
       "score_breakdown": {
         "wtb": 22,
         "h9_side": 1,
         "h9_28": 1,
-        "ops_hand": 8,
+        "ops_hand": 14,
         "ops_site": 3,
         "last7": 0,
-        "opp": 8,
-        "h2h": 15
+        "opp": 4,
+        "h2h": 6
       },
       "gamePk": 776537,
       "gameDate": "2025-08-30",
@@ -1264,10 +1264,10 @@
         "wtb": 21,
         "h9_side": 4,
         "h9_28": 2,
-        "ops_hand": 8,
-        "ops_site": 5,
+        "ops_hand": 12,
+        "ops_site": 4,
         "last7": 0,
-        "opp": 6,
+        "opp": 3,
         "h2h": 10
       },
       "gamePk": 776526,
@@ -1311,17 +1311,17 @@
         "ops": 0.776
       },
       "site": "Home",
-      "score": 55,
-      "h2h_share": 0.06,
+      "score": 58,
+      "h2h_share": 0.1,
       "score_breakdown": {
-        "wtb": 20,
+        "wtb": 21,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 11,
-        "ops_site": 4,
+        "ops_hand": 14,
+        "ops_site": 3,
         "last7": 6,
-        "opp": 8,
-        "h2h": 6
+        "opp": 4,
+        "h2h": 10
       },
       "gamePk": 776524,
       "gameDate": "2025-08-30",
@@ -1370,10 +1370,10 @@
         "wtb": 21,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 9,
+        "ops_hand": 13,
         "ops_site": 4,
         "last7": 5,
-        "opp": 8,
+        "opp": 4,
         "h2h": 19
       },
       "gamePk": 776530,
@@ -1417,16 +1417,16 @@
         "ops": 0.664
       },
       "site": "Away",
-      "score": 72,
+      "score": 71,
       "h2h_share": 0.26225000000000004,
       "score_breakdown": {
         "wtb": 22,
         "h9_side": 3,
         "h9_28": 0,
-        "ops_hand": 6,
+        "ops_hand": 9,
         "ops_site": 3,
         "last7": 4,
-        "opp": 8,
+        "opp": 4,
         "h2h": 26
       },
       "gamePk": 776537,
@@ -1470,16 +1470,16 @@
         "ops": 0.6
       },
       "site": "Home",
-      "score": 62,
+      "score": 63,
       "h2h_share": 0.07,
       "score_breakdown": {
-        "wtb": 21,
+        "wtb": 20,
         "h9_side": 5,
         "h9_28": 2,
-        "ops_hand": 12,
+        "ops_hand": 17,
         "ops_site": 6,
         "last7": 3,
-        "opp": 6,
+        "opp": 3,
         "h2h": 7
       },
       "gamePk": 776523,
@@ -1526,13 +1526,13 @@
       "score": 80,
       "h2h_share": 0.29,
       "score_breakdown": {
-        "wtb": 21,
+        "wtb": 20,
         "h9_side": 3,
         "h9_28": 2,
-        "ops_hand": 8,
+        "ops_hand": 12,
         "ops_site": 3,
         "last7": 7,
-        "opp": 7,
+        "opp": 4,
         "h2h": 29
       },
       "gamePk": 776525,
@@ -1579,13 +1579,13 @@
       "score": 60,
       "h2h_share": 0.03899999999999999,
       "score_breakdown": {
-        "wtb": 21,
+        "wtb": 20,
         "h9_side": 2,
         "h9_28": 0,
-        "ops_hand": 13,
+        "ops_hand": 18,
         "ops_site": 6,
         "last7": 6,
-        "opp": 8,
+        "opp": 4,
         "h2h": 4
       },
       "gamePk": 776535,
@@ -1629,17 +1629,17 @@
         "ops": 0.592
       },
       "site": "Home",
-      "score": 53,
-      "h2h_share": 0.06,
+      "score": 56,
+      "h2h_share": 0.1,
       "score_breakdown": {
         "wtb": 21,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 11,
+        "ops_hand": 14,
         "ops_site": 5,
         "last7": 3,
-        "opp": 7,
-        "h2h": 6
+        "opp": 3,
+        "h2h": 10
       },
       "gamePk": 776524,
       "gameDate": "2025-08-30",
@@ -1682,17 +1682,17 @@
         "ops": 0.869
       },
       "site": "Home",
-      "score": 55,
-      "h2h_share": 0.06,
+      "score": 58,
+      "h2h_share": 0.1,
       "score_breakdown": {
-        "wtb": 19,
-        "h9_side": 4,
+        "wtb": 20,
+        "h9_side": 3,
         "h9_28": 0,
-        "ops_hand": 9,
-        "ops_site": 4,
+        "ops_hand": 12,
+        "ops_site": 3,
         "last7": 7,
-        "opp": 6,
-        "h2h": 6
+        "opp": 3,
+        "h2h": 10
       },
       "gamePk": 776539,
       "gameDate": "2025-08-30",
@@ -1735,16 +1735,16 @@
         "ops": 0.49
       },
       "site": "Away",
-      "score": 70,
+      "score": 69,
       "h2h_share": 0.28759999999999997,
       "score_breakdown": {
-        "wtb": 20,
+        "wtb": 19,
         "h9_side": 2,
         "h9_28": 2,
-        "ops_hand": 7,
+        "ops_hand": 10,
         "ops_site": 2,
         "last7": 1,
-        "opp": 7,
+        "opp": 4,
         "h2h": 29
       },
       "gamePk": 776530,
@@ -1788,16 +1788,16 @@
         "ops": 0.902
       },
       "site": "Away",
-      "score": 59,
+      "score": 60,
       "h2h_share": 0.04479999999999999,
       "score_breakdown": {
         "wtb": 20,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 14,
+        "ops_hand": 19,
         "ops_site": 5,
         "last7": 8,
-        "opp": 8,
+        "opp": 4,
         "h2h": 4
       },
       "gamePk": 776527,
@@ -1844,13 +1844,13 @@
       "score": 71,
       "h2h_share": 0.29,
       "score_breakdown": {
-        "wtb": 19,
+        "wtb": 20,
         "h9_side": 2,
         "h9_28": 2,
-        "ops_hand": 7,
+        "ops_hand": 10,
         "ops_site": 2,
         "last7": 3,
-        "opp": 7,
+        "opp": 3,
         "h2h": 29
       },
       "gamePk": 776528,
@@ -1894,16 +1894,16 @@
         "ops": 1.131
       },
       "site": "Home",
-      "score": 77,
+      "score": 78,
       "h2h_share": 0.2923,
       "score_breakdown": {
-        "wtb": 19,
+        "wtb": 20,
         "h9_side": 1,
         "h9_28": 0,
-        "ops_hand": 8,
+        "ops_hand": 12,
         "ops_site": 3,
         "last7": 10,
-        "opp": 7,
+        "opp": 3,
         "h2h": 29
       },
       "gamePk": 776535,
@@ -1947,16 +1947,16 @@
         "ops": 0.651
       },
       "site": "Home",
-      "score": 54,
+      "score": 52,
       "h2h_share": 0.12,
       "score_breakdown": {
-        "wtb": 19,
+        "wtb": 18,
         "h9_side": 0,
         "h9_28": 1,
-        "ops_hand": 7,
+        "ops_hand": 10,
         "ops_site": 3,
         "last7": 4,
-        "opp": 8,
+        "opp": 4,
         "h2h": 12
       },
       "gamePk": 776516,
@@ -2006,10 +2006,10 @@
         "wtb": 19,
         "h9_side": 1,
         "h9_28": 0,
-        "ops_hand": 8,
+        "ops_hand": 11,
         "ops_site": 3,
         "last7": 10,
-        "opp": 6,
+        "opp": 3,
         "h2h": 24
       },
       "gamePk": 776535,
@@ -2053,16 +2053,16 @@
         "ops": 1.167
       },
       "site": "Home",
-      "score": 74,
+      "score": 72,
       "h2h_share": 0.29,
       "score_breakdown": {
         "wtb": 19,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 6,
+        "ops_hand": 8,
         "ops_site": 2,
         "last7": 10,
-        "opp": 8,
+        "opp": 4,
         "h2h": 29
       },
       "gamePk": 776516,
@@ -2112,10 +2112,10 @@
         "wtb": 19,
         "h9_side": 4,
         "h9_28": 1,
-        "ops_hand": 8,
+        "ops_hand": 12,
         "ops_site": 4,
         "last7": 3,
-        "opp": 8,
+        "opp": 4,
         "h2h": 29
       },
       "gamePk": 776523,
@@ -2159,16 +2159,16 @@
         "ops": 0.777
       },
       "site": "Away",
-      "score": 64,
+      "score": 63,
       "h2h_share": 0.19,
       "score_breakdown": {
         "wtb": 16,
-        "h9_side": 3,
+        "h9_side": 2,
         "h9_28": 2,
-        "ops_hand": 8,
+        "ops_hand": 11,
         "ops_site": 3,
         "last7": 6,
-        "opp": 7,
+        "opp": 4,
         "h2h": 19
       },
       "gamePk": 776539,
@@ -2212,16 +2212,16 @@
         "ops": 0.61
       },
       "site": "Away",
-      "score": 57,
+      "score": 56,
       "h2h_share": 0.14,
       "score_breakdown": {
-        "wtb": 17,
-        "h9_side": 3,
+        "wtb": 18,
+        "h9_side": 2,
         "h9_28": 3,
-        "ops_hand": 7,
+        "ops_hand": 10,
         "ops_site": 3,
         "last7": 3,
-        "opp": 7,
+        "opp": 3,
         "h2h": 14
       },
       "gamePk": 776530,
@@ -2265,16 +2265,16 @@
         "ops": 0.962
       },
       "site": "Away",
-      "score": 74,
+      "score": 72,
       "h2h_share": 0.28665,
       "score_breakdown": {
-        "wtb": 17,
+        "wtb": 16,
         "h9_side": 0,
         "h9_28": 1,
-        "ops_hand": 6,
+        "ops_hand": 9,
         "ops_site": 3,
         "last7": 9,
-        "opp": 9,
+        "opp": 5,
         "h2h": 29
       },
       "gamePk": 776532,
@@ -2318,16 +2318,16 @@
         "ops": 0.503
       },
       "site": "Home",
-      "score": 68,
+      "score": 70,
       "h2h_share": 0.3,
       "score_breakdown": {
         "wtb": 17,
         "h9_side": 3,
         "h9_28": 1,
-        "ops_hand": 8,
+        "ops_hand": 12,
         "ops_site": 2,
         "last7": 2,
-        "opp": 5,
+        "opp": 3,
         "h2h": 30
       },
       "gamePk": 776523,
@@ -2371,16 +2371,16 @@
         "ops": 0.729
       },
       "site": "Home",
-      "score": 54,
+      "score": 53,
       "h2h_share": 0.14,
       "score_breakdown": {
-        "wtb": 16,
+        "wtb": 17,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 7,
-        "ops_site": 4,
+        "ops_hand": 10,
+        "ops_site": 3,
         "last7": 5,
-        "opp": 8,
+        "opp": 4,
         "h2h": 14
       },
       "gamePk": 776530,
@@ -2405,9 +2405,9 @@
       "projectedBattingOrder": 5,
       "projected_pa": 4.1,
       "ops_vs_pitcher": {
-        "pa": 4,
-        "ab": 3,
-        "ops": 1.75
+        "pa": 9,
+        "ab": 8,
+        "ops": 0.944
       },
       "wtb_percent": 0.228,
       "season_pa": 448,
@@ -2424,17 +2424,17 @@
         "ops": 0.842
       },
       "site": "Home",
-      "score": 66,
-      "h2h_share": 0.26916666666666667,
+      "score": 61,
+      "h2h_share": 0.2176,
       "score_breakdown": {
         "wtb": 16,
-        "h9_side": 2,
+        "h9_side": 3,
         "h9_28": 1,
-        "ops_hand": 4,
+        "ops_hand": 6,
         "ops_site": 4,
         "last7": 7,
-        "opp": 5,
-        "h2h": 27
+        "opp": 2,
+        "h2h": 22
       },
       "gamePk": 776526,
       "gameDate": "2025-08-30",
@@ -2477,16 +2477,16 @@
         "ops": 0.781
       },
       "site": "Away",
-      "score": 46,
+      "score": 45,
       "h2h_share": 0.042199999999999994,
       "score_breakdown": {
         "wtb": 17,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 8,
-        "ops_site": 4,
+        "ops_hand": 11,
+        "ops_site": 3,
         "last7": 6,
-        "opp": 7,
+        "opp": 4,
         "h2h": 4
       },
       "gamePk": 776523,
@@ -2533,13 +2533,13 @@
       "score": 61,
       "h2h_share": 0.2,
       "score_breakdown": {
-        "wtb": 15,
-        "h9_side": 2,
+        "wtb": 16,
+        "h9_side": 1,
         "h9_28": 0,
-        "ops_hand": 6,
+        "ops_hand": 9,
         "ops_site": 3,
         "last7": 10,
-        "opp": 5,
+        "opp": 2,
         "h2h": 20
       },
       "gamePk": 776535,
@@ -2583,16 +2583,16 @@
         "ops": 0.98
       },
       "site": "Away",
-      "score": 63,
+      "score": 62,
       "h2h_share": 0.09980000000000003,
       "score_breakdown": {
-        "wtb": 13,
-        "h9_side": 3,
+        "wtb": 14,
+        "h9_side": 2,
         "h9_28": 2,
-        "ops_hand": 12,
+        "ops_hand": 16,
         "ops_site": 4,
         "last7": 9,
-        "opp": 10,
+        "opp": 5,
         "h2h": 10
       },
       "gamePk": 776532,
@@ -2636,16 +2636,16 @@
         "ops": 0.599
       },
       "site": "Home",
-      "score": 56,
+      "score": 57,
       "h2h_share": 0.1424,
       "score_breakdown": {
-        "wtb": 16,
-        "h9_side": 3,
+        "wtb": 17,
+        "h9_side": 2,
         "h9_28": 3,
-        "ops_hand": 9,
+        "ops_hand": 13,
         "ops_site": 3,
         "last7": 3,
-        "opp": 5,
+        "opp": 2,
         "h2h": 14
       },
       "gamePk": 776528,
@@ -2695,10 +2695,10 @@
         "wtb": 17,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 10,
+        "ops_hand": 14,
         "ops_site": 3,
         "last7": 5,
-        "opp": 8,
+        "opp": 4,
         "h2h": 23
       },
       "gamePk": 776523,
@@ -2742,16 +2742,16 @@
         "ops": 0.744
       },
       "site": "Away",
-      "score": 46,
+      "score": 44,
       "h2h_share": 0.1,
       "score_breakdown": {
         "wtb": 14,
         "h9_side": 1,
         "h9_28": 1,
-        "ops_hand": 4,
-        "ops_site": 4,
+        "ops_hand": 6,
+        "ops_site": 3,
         "last7": 5,
-        "opp": 7,
+        "opp": 4,
         "h2h": 10
       },
       "gamePk": 776535,
@@ -2795,17 +2795,17 @@
         "ops": 0.926
       },
       "site": "Away",
-      "score": 55,
-      "h2h_share": 0.06,
+      "score": 57,
+      "h2h_share": 0.1,
       "score_breakdown": {
-        "wtb": 16,
+        "wtb": 15,
         "h9_side": 3,
         "h9_28": 0,
-        "ops_hand": 11,
+        "ops_hand": 14,
         "ops_site": 3,
         "last7": 8,
-        "opp": 8,
-        "h2h": 6
+        "opp": 4,
+        "h2h": 10
       },
       "gamePk": 776527,
       "gameDate": "2025-08-30",
@@ -2829,9 +2829,9 @@
       "projectedBattingOrder": 4,
       "projected_pa": 4.39,
       "ops_vs_pitcher": {
-        "pa": 6,
-        "ab": 6,
-        "ops": 0.5
+        "pa": 9,
+        "ab": 9,
+        "ops": 0.889
       },
       "wtb_percent": 0.223,
       "season_pa": 485,
@@ -2848,17 +2848,17 @@
         "ops": 0.86
       },
       "site": "Away",
-      "score": 47,
-      "h2h_share": 0.075,
+      "score": 54,
+      "h2h_share": 0.1956,
       "score_breakdown": {
         "wtb": 14,
-        "h9_side": 3,
+        "h9_side": 2,
         "h9_28": 1,
         "ops_hand": 3,
-        "ops_site": 4,
+        "ops_site": 3,
         "last7": 7,
-        "opp": 7,
-        "h2h": 8
+        "opp": 4,
+        "h2h": 20
       },
       "gamePk": 776535,
       "gameDate": "2025-08-30",
@@ -2901,17 +2901,17 @@
         "ops": 0.666
       },
       "site": "Away",
-      "score": 47,
-      "h2h_share": 0.06,
+      "score": 46,
+      "h2h_share": 0.1,
       "score_breakdown": {
         "wtb": 12,
         "h9_side": 3,
         "h9_28": 2,
-        "ops_hand": 6,
-        "ops_site": 4,
+        "ops_hand": 7,
+        "ops_site": 3,
         "last7": 4,
-        "opp": 10,
-        "h2h": 6
+        "opp": 5,
+        "h2h": 10
       },
       "gamePk": 776532,
       "gameDate": "2025-08-30",
@@ -2935,9 +2935,9 @@
       "projectedBattingOrder": 4,
       "projected_pa": 4.39,
       "ops_vs_pitcher": {
-        "pa": 2,
-        "ab": 1,
-        "ops": 5
+        "pa": 13,
+        "ab": 9,
+        "ops": 1.205
       },
       "wtb_percent": 0.221,
       "season_pa": 521,
@@ -2954,17 +2954,17 @@
         "ops": 0.215
       },
       "site": "Away",
-      "score": 57,
-      "h2h_share": 0.19,
+      "score": 62,
+      "h2h_share": 0.28025,
       "score_breakdown": {
-        "wtb": 14,
-        "h9_side": 2,
+        "wtb": 13,
+        "h9_side": 1,
         "h9_28": 1,
-        "ops_hand": 10,
-        "ops_site": 4,
+        "ops_hand": 12,
+        "ops_site": 3,
         "last7": 0,
-        "opp": 7,
-        "h2h": 19
+        "opp": 4,
+        "h2h": 28
       },
       "gamePk": 776536,
       "gameDate": "2025-08-30",
@@ -3007,16 +3007,16 @@
         "ops": 0.486
       },
       "site": "Away",
-      "score": 56,
+      "score": 54,
       "h2h_share": 0.26665,
       "score_breakdown": {
-        "wtb": 13,
+        "wtb": 12,
         "h9_side": 2,
         "h9_28": 0,
-        "ops_hand": 4,
+        "ops_hand": 6,
         "ops_site": 2,
         "last7": 1,
-        "opp": 7,
+        "opp": 4,
         "h2h": 27
       },
       "gamePk": 776527,
@@ -3060,16 +3060,16 @@
         "ops": 0.876
       },
       "site": "Home",
-      "score": 58,
+      "score": 57,
       "h2h_share": 0.09910000000000001,
       "score_breakdown": {
         "wtb": 13,
         "h9_side": 5,
         "h9_28": 2,
-        "ops_hand": 9,
-        "ops_site": 4,
+        "ops_hand": 13,
+        "ops_site": 3,
         "last7": 7,
-        "opp": 8,
+        "opp": 4,
         "h2h": 10
       },
       "gamePk": 776523,
@@ -3113,16 +3113,16 @@
         "ops": 0.759
       },
       "site": "Away",
-      "score": 60,
+      "score": 59,
       "h2h_share": 0.26216666666666666,
       "score_breakdown": {
-        "wtb": 10,
+        "wtb": 12,
         "h9_side": 2,
         "h9_28": 1,
-        "ops_hand": 6,
+        "ops_hand": 8,
         "ops_site": 2,
-        "last7": 6,
-        "opp": 7,
+        "last7": 5,
+        "opp": 3,
         "h2h": 26
       },
       "gamePk": 776535,
@@ -3171,11 +3171,11 @@
       "score_breakdown": {
         "wtb": 12,
         "h9_side": 6,
-        "h9_28": 3,
-        "ops_hand": 8,
+        "h9_28": 2,
+        "ops_hand": 12,
         "ops_site": 3,
         "last7": 10,
-        "opp": 5,
+        "opp": 2,
         "h2h": 10
       },
       "gamePk": 776531,
@@ -3219,16 +3219,16 @@
         "ops": 0.666
       },
       "site": "Home",
-      "score": 52,
+      "score": 51,
       "h2h_share": 0.17,
       "score_breakdown": {
         "wtb": 8,
         "h9_side": 2,
         "h9_28": 0,
-        "ops_hand": 11,
+        "ops_hand": 14,
         "ops_site": 2,
         "last7": 4,
-        "opp": 8,
+        "opp": 4,
         "h2h": 17
       },
       "gamePk": 776535,
@@ -3272,16 +3272,16 @@
         "ops": 1.85
       },
       "site": "Home",
-      "score": 53,
+      "score": 51,
       "h2h_share": 0.14,
       "score_breakdown": {
         "wtb": 9,
         "h9_side": 4,
         "h9_28": 2,
-        "ops_hand": 5,
+        "ops_hand": 7,
         "ops_site": 2,
-        "last7": 10,
-        "opp": 7,
+        "last7": 9,
+        "opp": 4,
         "h2h": 14
       },
       "gamePk": 776526,
@@ -3325,16 +3325,16 @@
         "ops": 1.023
       },
       "site": "Away",
-      "score": 61,
+      "score": 59,
       "h2h_share": 0.2584,
       "score_breakdown": {
         "wtb": 9,
         "h9_side": 2,
         "h9_28": 1,
-        "ops_hand": 4,
+        "ops_hand": 6,
         "ops_site": 2,
         "last7": 10,
-        "opp": 7,
+        "opp": 3,
         "h2h": 26
       },
       "gamePk": 776532,
@@ -3378,16 +3378,16 @@
         "ops": 0.936
       },
       "site": "Away",
-      "score": 54,
+      "score": 53,
       "h2h_share": 0.1,
       "score_breakdown": {
         "wtb": 8,
         "h9_side": 5,
         "h9_28": 0,
-        "ops_hand": 9,
+        "ops_hand": 13,
         "ops_site": 4,
         "last7": 8,
-        "opp": 10,
+        "opp": 5,
         "h2h": 10
       },
       "gamePk": 776537,
@@ -3437,10 +3437,10 @@
         "wtb": 8,
         "h9_side": 2,
         "h9_28": 3,
-        "ops_hand": 10,
+        "ops_hand": 14,
         "ops_site": 4,
         "last7": 10,
-        "opp": 8,
+        "opp": 4,
         "h2h": 15
       },
       "gamePk": 776528,
@@ -3490,10 +3490,10 @@
         "wtb": 7,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 13,
+        "ops_hand": 17,
         "ops_site": 6,
         "last7": 9,
-        "opp": 9,
+        "opp": 5,
         "h2h": 11
       },
       "gamePk": 776537,
@@ -3537,16 +3537,16 @@
         "ops": 0.777
       },
       "site": "Away",
-      "score": 47,
+      "score": 44,
       "h2h_share": 0.14,
       "score_breakdown": {
         "wtb": 4,
         "h9_side": 3,
-        "h9_28": 3,
-        "ops_hand": 5,
+        "h9_28": 2,
+        "ops_hand": 8,
         "ops_site": 2,
         "last7": 6,
-        "opp": 10,
+        "opp": 5,
         "h2h": 14
       },
       "gamePk": 776539,
@@ -3571,8 +3571,8 @@
       "projectedBattingOrder": 1,
       "projected_pa": 4.69,
       "ops_vs_pitcher": {
-        "pa": 2,
-        "ab": 2,
+        "pa": 7,
+        "ab": 7,
         "ops": 0
       },
       "wtb_percent": 0.205,
@@ -3590,17 +3590,17 @@
         "ops": 0.451
       },
       "site": "Away",
-      "score": 38,
-      "h2h_share": 0.1,
+      "score": 31,
+      "h2h_share": 0.05,
       "score_breakdown": {
         "wtb": 7,
         "h9_side": 1,
         "h9_28": 2,
-        "ops_hand": 5,
+        "ops_hand": 8,
         "ops_site": 2,
         "last7": 1,
-        "opp": 10,
-        "h2h": 10
+        "opp": 5,
+        "h2h": 5
       },
       "gamePk": 776536,
       "gameDate": "2025-08-30",
@@ -3643,16 +3643,16 @@
         "ops": 0.532
       },
       "site": "Home",
-      "score": 52,
+      "score": 54,
       "h2h_share": 0.24833333333333335,
       "score_breakdown": {
         "wtb": 5,
         "h9_side": 1,
         "h9_28": 1,
-        "ops_hand": 10,
+        "ops_hand": 14,
         "ops_site": 3,
         "last7": 2,
-        "opp": 5,
+        "opp": 3,
         "h2h": 25
       },
       "gamePk": 776527,
@@ -3696,16 +3696,16 @@
         "ops": 0.83
       },
       "site": "Home",
-      "score": 48,
+      "score": 50,
       "h2h_share": 0.055,
       "score_breakdown": {
         "wtb": 5,
         "h9_side": 2,
         "h9_28": 0,
-        "ops_hand": 16,
+        "ops_hand": 21,
         "ops_site": 5,
         "last7": 7,
-        "opp": 7,
+        "opp": 4,
         "h2h": 6
       },
       "gamePk": 776535,
@@ -3749,16 +3749,16 @@
         "ops": 0.489
       },
       "site": "Home",
-      "score": 42,
+      "score": 40,
       "h2h_share": 0.15319999999999998,
       "score_breakdown": {
         "wtb": 5,
         "h9_side": 2,
         "h9_28": 0,
-        "ops_hand": 7,
-        "ops_site": 4,
+        "ops_hand": 10,
+        "ops_site": 3,
         "last7": 1,
-        "opp": 8,
+        "opp": 4,
         "h2h": 15
       },
       "gamePk": 776535,
@@ -3802,16 +3802,16 @@
         "ops": 0.792
       },
       "site": "Away",
-      "score": 50,
+      "score": 49,
       "h2h_share": 0.12,
       "score_breakdown": {
         "wtb": 5,
         "h9_side": 1,
         "h9_28": 3,
-        "ops_hand": 10,
+        "ops_hand": 13,
         "ops_site": 5,
         "last7": 6,
-        "opp": 8,
+        "opp": 4,
         "h2h": 12
       },
       "gamePk": 776531,
@@ -3861,10 +3861,10 @@
         "wtb": 4,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 8,
+        "ops_hand": 12,
         "ops_site": 2,
         "last7": 2,
-        "opp": 7,
+        "opp": 3,
         "h2h": 17
       },
       "gamePk": 776525,
@@ -3908,16 +3908,16 @@
         "ops": 0.9
       },
       "site": "Away",
-      "score": 39,
+      "score": 37,
       "h2h_share": 0.10665,
       "score_breakdown": {
         "wtb": 3,
         "h9_side": 3,
         "h9_28": 1,
-        "ops_hand": 5,
+        "ops_hand": 7,
         "ops_site": 3,
-        "last7": 7,
-        "opp": 6,
+        "last7": 6,
+        "opp": 3,
         "h2h": 11
       },
       "gamePk": 776535,
@@ -3942,9 +3942,9 @@
       "projectedBattingOrder": 1,
       "projected_pa": 4.49,
       "ops_vs_pitcher": {
-        "pa": 3,
-        "ab": 3,
-        "ops": 0.666
+        "pa": 12,
+        "ab": 12,
+        "ops": 0.334
       },
       "wtb_percent": 0.2,
       "season_pa": 330,
@@ -3961,17 +3961,17 @@
         "ops": 0.4
       },
       "site": "Home",
-      "score": 36,
-      "h2h_share": 0.12,
+      "score": 29,
+      "h2h_share": 0.0334,
       "score_breakdown": {
         "wtb": 4,
         "h9_side": 0,
-        "h9_28": 0,
-        "ops_hand": 8,
+        "h9_28": 1,
+        "ops_hand": 14,
         "ops_site": 3,
         "last7": 0,
-        "opp": 9,
-        "h2h": 12
+        "opp": 4,
+        "h2h": 3
       },
       "gamePk": 776524,
       "gameDate": "2025-08-30",
@@ -4014,17 +4014,17 @@
         "ops": 0.997
       },
       "site": "Home",
-      "score": 38,
-      "h2h_share": 0.06,
+      "score": 40,
+      "h2h_share": 0.1,
       "score_breakdown": {
         "wtb": 4,
         "h9_side": 0,
         "h9_28": 1,
-        "ops_hand": 8,
+        "ops_hand": 10,
         "ops_site": 3,
         "last7": 9,
-        "opp": 7,
-        "h2h": 6
+        "opp": 3,
+        "h2h": 10
       },
       "gamePk": 776516,
       "gameDate": "2025-08-30",
@@ -4073,10 +4073,10 @@
         "wtb": 3,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 7,
+        "ops_hand": 9,
         "ops_site": 2,
         "last7": 4,
-        "opp": 5,
+        "opp": 3,
         "h2h": 26
       },
       "gamePk": 776539,
@@ -4101,9 +4101,9 @@
       "projectedBattingOrder": 5,
       "projected_pa": 4.1,
       "ops_vs_pitcher": {
-        "pa": 6,
-        "ab": 5,
-        "ops": 0.167
+        "pa": 11,
+        "ab": 10,
+        "ops": 0.473
       },
       "wtb_percent": 0.196,
       "season_pa": 455,
@@ -4120,17 +4120,17 @@
         "ops": 0
       },
       "site": "Home",
-      "score": 26,
-      "h2h_share": 0.05,
+      "score": 27,
+      "h2h_share": 0.0573,
       "score_breakdown": {
-        "wtb": 2,
+        "wtb": 3,
         "h9_side": 1,
         "h9_28": 2,
-        "ops_hand": 8,
+        "ops_hand": 9,
         "ops_site": 3,
         "last7": 0,
-        "opp": 5,
-        "h2h": 5
+        "opp": 3,
+        "h2h": 6
       },
       "gamePk": 776537,
       "gameDate": "2025-08-30",
@@ -4154,9 +4154,9 @@
       "projectedBattingOrder": 5,
       "projected_pa": 4.28,
       "ops_vs_pitcher": {
-        "pa": 2,
-        "ab": 2,
-        "ops": 0
+        "pa": 5,
+        "ab": 5,
+        "ops": 1
       },
       "wtb_percent": 0.191,
       "season_pa": 320,
@@ -4173,17 +4173,17 @@
         "ops": 0.644
       },
       "site": "Away",
-      "score": 36,
-      "h2h_share": 0.1,
+      "score": 45,
+      "h2h_share": 0.23,
       "score_breakdown": {
         "wtb": 0,
         "h9_side": 1,
-        "h9_28": 2,
-        "ops_hand": 10,
-        "ops_site": 3,
+        "h9_28": 1,
+        "ops_hand": 11,
+        "ops_site": 2,
         "last7": 4,
-        "opp": 6,
-        "h2h": 10
+        "opp": 3,
+        "h2h": 23
       },
       "gamePk": 776536,
       "gameDate": "2025-08-30",
@@ -4232,10 +4232,10 @@
         "wtb": 0,
         "h9_side": 2,
         "h9_28": 1,
-        "ops_hand": 8,
+        "ops_hand": 12,
         "ops_site": 3,
         "last7": 0,
-        "opp": 7,
+        "opp": 3,
         "h2h": 21
       },
       "gamePk": 776532,
@@ -4279,16 +4279,16 @@
         "ops": 1.205
       },
       "site": "Home",
-      "score": 47,
+      "score": 48,
       "h2h_share": 0.17835,
       "score_breakdown": {
         "wtb": 0,
         "h9_side": 0,
         "h9_28": 0,
-        "ops_hand": 9,
+        "ops_hand": 13,
         "ops_site": 4,
         "last7": 10,
-        "opp": 6,
+        "opp": 3,
         "h2h": 18
       },
       "gamePk": 776530,
@@ -4332,16 +4332,16 @@
         "ops": 1.071
       },
       "site": "Home",
-      "score": 44,
+      "score": 42,
       "h2h_share": 0.14,
       "score_breakdown": {
         "wtb": 0,
         "h9_side": 2,
         "h9_28": 2,
-        "ops_hand": 6,
+        "ops_hand": 8,
         "ops_site": 3,
         "last7": 9,
-        "opp": 8,
+        "opp": 4,
         "h2h": 14
       },
       "gamePk": 776531,
@@ -4385,16 +4385,16 @@
         "ops": 0
       },
       "site": "Away",
-      "score": 25,
+      "score": 20,
       "h2h_share": 0.1,
       "score_breakdown": {
         "wtb": 0,
         "h9_side": 2,
         "h9_28": 2,
         "ops_hand": 0,
-        "ops_site": 2,
+        "ops_site": 1,
         "last7": 0,
-        "opp": 9,
+        "opp": 5,
         "h2h": 10
       },
       "gamePk": 776536,
