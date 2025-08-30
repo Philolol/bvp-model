@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BvP Daily – Hitters</title>
+    <link rel="stylesheet" href="/web/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>BvP Daily – Hitters</h1>
+      <div class="controls">
+        <button id="prevBtn" title="Previous day">◀</button>
+        <label>
+          Date:
+          <input type="date" id="dateInput" />
+        </label>
+        <button id="nextBtn" title="Next day">▶</button>
+        <label>
+          Sort:
+          <select id="sortSelect">
+            <option value="score">Score</option>
+            <option value="wtb_percent">WTB%</option>
+          </select>
+        </label>
+        <button id="sortDirBtn" title="Toggle sort direction">Desc</button>
+        <button id="loadBtn">Load</button>
+        <span id="status"></span>
+      </div>
+    </header>
+
+    <main>
+      <div id="cards" class="cards"></div>
+    </main>
+
+    <script src="/web/app.js" type="module"></script>
+  </body>
+  </html>

@@ -4,6 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "node src/buildDaily.js",
-    "build:date": "node src/buildDaily.js --date"
+    "build:date": "node src/buildDaily.js --date",
+    "dev:web": "node scripts/devServer.js",
+    "dev": "node scripts/devServer.js"
   }
 }

@@ -1,4 +1,4 @@
-// src/buildDaily.js
+
 // For ALL games tomorrow, for each listed probable pitcher:
 // - Find opposing hitters who batted 1–5 at least once in last 7 days
 // - Compute projected batting order from last 7 games (mode of lineup slots; tiebreak = most recent)
@@ -54,6 +54,16 @@ function normPA(pa) {
   const min = 3.8, max = 4.8; // PA range for 1–5 hitters
   return clamp((pa - min) / (max - min), 0, 1);
 }
+// Weight WTB by season PA confidence: below MIN dampens, MAX reaches full weight
+const WTB_PA_MIN = 150;   // start of confidence ramp
+const WTB_PA_MAX = 500;   // full confidence at/above this PA
+const WTB_PA_FLOOR = 0.65; // minimum fraction of WTB weight
+function wtbPAConfidence(pa) {
+  if (!Number.isFinite(pa)) return WTB_PA_FLOOR; // conservative if missing
+  const x = clamp((pa - WTB_PA_MIN) / (WTB_PA_MAX - WTB_PA_MIN), 0, 1);
+  const eased = Math.sqrt(x); // faster early gain, smoother tail
+  return WTB_PA_FLOOR + (1 - WTB_PA_FLOOR) * eased;
+}
 // Normalize weighted TB% around league baseline and elite threshold
 function normWTB(w) {
   if (!Number.isFinite(w)) return 0.5; // neutral if missing
@@ -70,39 +80,39 @@ function normWTB(w) {
   return 0.5 * ((w - floor) / (base - floor));
 }
 
-// H2H calibration grid from user-provided expectations (points out of 25)
-// Columns = OPS bins: 0.4, 0.6, 0.8, 1.0, 1.2, 1.4+
+// H2H calibration grid from user-provided expectations (points out of 30)
+// Columns = OPS bins: 0.2, 0.4, 0.6, 0.7, 0.8, 0.85, 0.9, 0.95, 1.0, 1.2, 1.4, 2.0+
 // Rows = AB 1..25
-const H2H_OPS_BINS = [0.4, 0.6, 0.8, 1.0, 1.2, 1.4];
+const H2H_OPS_BINS = [0.2, 0.4, 0.6, 0.7, 0.8, 0.85, 0.9, 0.95, 1.0, 1.2, 1.4, 2.0];
 const H2H_GRID_POINTS = [
-  [12,12,12,12,12,12], // 1
-  [12,12,12,12,13,14], // 2
-  [11,11,12,13,14,16], // 3
-  [10,10,12,14,15,17], // 4
-  [ 9,10,12,15,17,18], // 5
-  [ 8, 9,13,16,18,19], // 6
-  [ 7, 8,13,17,19,20], // 7
-  [ 6, 7,13,18,19,20], // 8
-  [ 6, 6,14,18,19,20], // 9
-  [ 5, 6,14,18,20,21], // 10
-  [ 5, 6,14,18,20,21], // 11
-  [ 5, 6,14,19,21,22], // 12
-  [ 5, 5,14,19,21,22], // 13
-  [ 4, 5,15,19,21,22], // 14
-  [ 4, 5,15,19,21,22], // 15
-  [ 4, 4,15,20,21,22], // 16
-  [ 4, 4,15,20,21,22], // 17
-  [ 4, 4,15,20,21,22], // 18
-  [ 4, 4,15,20,22,22], // 19
-  [ 3, 4,15,21,22,23], // 20
-  [ 3, 4,15,21,22,23], // 21
-  [ 3, 3,15,22,23,24], // 22
-  [ 3, 3,15,22,23,24], // 23
-  [ 3, 3,15,22,24,25], // 24
-  [ 3, 3,15,23,24,25]  // 25
+  [14, 14, 14, 14, 14, 16, 16, 16, 16, 17, 17, 19], // 1
+  [10, 11, 13, 13, 14, 16, 16, 17, 17, 18, 24, 29], // 2
+  [10, 11, 12, 12, 14, 16, 19, 19, 19, 20, 24, 29], // 3
+  [6, 7, 11, 11, 14, 17, 20, 19, 20, 22, 28, 30], // 4
+  [5, 7, 10, 11, 14, 17, 20, 20, 23, 25, 28, 30], // 5
+  [5, 7, 8, 11, 14, 17, 20, 20, 24, 26, 29, 30], // 6
+  [5, 7, 7, 10, 14, 17, 20, 22, 25, 26, 29, 30], // 7
+  [4, 6, 7, 10, 14, 18, 20, 22, 25, 28, 29, 30], // 8
+  [4, 6, 7, 10, 14, 18, 20, 22, 25, 28, 29, 30], // 9
+  [4, 5, 7, 10, 14, 18, 20, 22, 26, 28, 29, 30], // 10
+  [2, 4, 7, 10, 14, 18, 20, 22, 26, 28, 29, 30], // 11
+  [2, 4, 7, 8, 14, 19, 20, 22, 28, 28, 29, 30], // 12
+  [2, 4, 7, 8, 14, 19, 22, 23, 28, 29, 29, 30], // 13
+  [2, 2, 7, 8, 14, 19, 22, 23, 28, 29, 30, 30], // 14
+  [2, 2, 6, 8, 14, 19, 22, 23, 28, 29, 30, 30], // 15
+  [2, 2, 6, 7, 14, 20, 23, 23, 29, 29, 30, 30], // 16
+  [2, 2, 6, 7, 14, 20, 23, 24, 29, 29, 30, 30], // 17
+  [2, 2, 5, 7, 14, 20, 23, 24, 29, 30, 30, 30], // 18
+  [2, 2, 5, 7, 14, 22, 23, 25, 29, 30, 30, 30], // 19
+  [1, 1, 5, 7, 14, 22, 24, 25, 29, 30, 30, 30], // 20
+  [1, 1, 4, 6, 14, 22, 24, 26, 30, 30, 30, 30], // 21
+  [1, 1, 4, 6, 14, 22, 24, 26, 30, 30, 30, 30], // 22
+  [1, 1, 4, 6, 14, 22, 25, 26, 30, 30, 30, 30], // 23
+  [1, 1, 4, 6, 14, 22, 25, 28, 30, 30, 30, 30], // 24
+  [1, 1, 4, 6, 14, 22, 25, 28, 30, 30, 30, 30]  // 25
 ];
 
-// Bilinear interpolation over AB (1..25) and OPS bins to get share in [0, 0.25]
+// Bilinear interpolation over AB (1..25) and OPS bins to get share in [0, 0.30]
 function h2hWeightFromGrid(ab, ops) {
   if (!Number.isFinite(ab)) ab = 0;
   if (!Number.isFinite(ops)) ops = OPS_BASELINE;
@@ -112,7 +122,7 @@ function h2hWeightFromGrid(ab, ops) {
   const r1 = r0; // AB are integers; if fractional AB appear, extend to interpolate
   const t = 0;   // no AB interpolation needed for integer AB
 
-  // Clamp OPS to [0.4, 1.4]
+  // Clamp OPS to [first_bin, last_bin]
   const opsClamped = clamp(ops, H2H_OPS_BINS[0], H2H_OPS_BINS[H2H_OPS_BINS.length - 1]);
   // Find bin indices i (low) and i+1 (high)
   let i = 0;
@@ -136,12 +146,12 @@ const SCORE_WEIGHTS = {
   h9_side: 0.04,
   h9_28: 0.02,
   // ops splits
-  ops_hand: 0.10,
+  ops_hand: 0.15,
   ops_site: 0.04,
   // recency
   last7: 0.10,
   // opportunity volume
-  opp: 0.10,
+  opp: 0.05,
   // head-to-head (gated by AB)
   h2h: 0.15
 };
@@ -157,7 +167,7 @@ function battingOrderSlot(bo) {
   if (!Number.isFinite(n)) return null;
   return Math.floor(n / 100) || null;
 }
-// choose mode; if tie, prefer 'latestSlot'
+
 function chooseProjectedOrder(counts, latestSlot) {
   let bestSlot = null, bestCount = -1;
   for (const [slotStr, count] of Object.entries(counts)) {
@@ -198,7 +208,8 @@ async function getVsPitcherOPS(batterIds, pitcherId, season) {
       id: Number(p.id),
       name: p.fullName,
       ops_vs_pitcher: ops,
-      ab_vs_pitcher: stat.atBats ?? null
+      ab_vs_pitcher: stat.atBats ?? null,
+      pa_vs_pitcher: plateAppearances(stat ?? {})
     });
   }
   return rows;
@@ -301,7 +312,6 @@ function fmtUSDate(y, m, d) {
   return `${pad(m)}/${pad(d)}/${y}`;
 }
 
-// Current Pacific date components { y, m, d }
 function pacificTodayYMD() {
   const parts = new Intl.DateTimeFormat('en-US', {
     timeZone: 'America/Los_Angeles',
@@ -312,7 +322,6 @@ function pacificTodayYMD() {
   return { y: get('year'), m: get('month'), d: get('day') };
 }
 
-// Add delta days to a Y-M-D tuple in UTC-safe math
 function addDaysYMD({ y, m, d }, delta) {
   const dt = new Date(Date.UTC(y, m - 1, d));
   dt.setUTCDate(dt.getUTCDate() + delta);
@@ -406,10 +415,6 @@ async function getPitcherHomeAwayHitsPer9(pitcherId, season) {
   return { home, away };
 }
 
-// Get season Day/Night OPS splits for a list of batters
-// getDayNightSplits removed (no longer used)
-
-// Small helper to decide which OPS to use for THIS game
 function pickHomeAwayOPS(haMapEntry, isOpponentHome) {
   if (!haMapEntry) return null;
   // Support both old shape ({homeOPS, awayOPS}) and new shape ({home:{ops,pa}, away:{ops,pa}})
@@ -676,7 +681,8 @@ async function analyzeProbable({ game, probableSide, season, start7, endDate }) 
       const oppNorm = projPA == null ? 0.5 : clamp((projPA - oppMin) / (oppMax - oppMin), 0, 1);
       const oppShare = w.opp * (0.5 + 0.5 * oppNorm);
       const comp = {
-        wtb: normWTB(wtb) * w.wtb,
+        // Season PA-weighted WTB contribution
+        wtb: (normWTB(wtb) * w.wtb) * wtbPAConfidence(season_pa),
         h9_side: normH9(pitcherH9VsBatterSide) * w.h9_side,
         h9_28: normH9(pitcher.hitsPer9Inn_last_28_days) * w.h9_28,
         ops_hand: normOPS(opsVsPitcherHand) * w.ops_hand,
@@ -687,23 +693,35 @@ async function analyzeProbable({ game, probableSide, season, start7, endDate }) 
       };
       const scoreRaw = Object.values(comp).reduce((a, b) => a + (Number.isFinite(b) ? b : 0), 0);
       const scaledScore = Math.max(1, Math.round(clamp(scoreRaw, 0, 1) * 100));
-      // Build a breakdown that sums to score by proportionally scaling raw contributions
+      // Build a breakdown that pins H2H to its absolute grid value (round(w.h2h*100))
+      // and scales remaining components proportionally to fill the rest, so totals match 'score'.
       const entries = Object.entries(comp);
-      const denom = entries.reduce((a, [, v]) => a + (Number.isFinite(v) ? v : 0), 0);
-      let tmp = entries.map(([k, v]) => {
-        const base = Number.isFinite(v) ? v : 0;
-        const scaled = denom > 0 ? (base * (scaledScore / denom)) : 0;
-        return [k, Math.max(0, Math.round(scaled))];
-      });
-      // Adjust rounding error so breakdown sums exactly to score
-      const sumTmp = tmp.reduce((a, [, n]) => a + n, 0);
-      let delta = scaledScore - sumTmp;
-      if (delta !== 0 && tmp.length > 0) {
-        // give/take the delta from the largest raw contributor for stability
-        const maxIdx = entries
-          .map(([, v], i) => ({ i, v: Number.isFinite(v) ? v : -1 }))
-          .sort((a, b) => b.v - a.v)[0].i;
-        tmp[maxIdx][1] = Math.max(0, tmp[maxIdx][1] + delta);
+      const absH2H = Number.isFinite(comp.h2h) ? Math.round(comp.h2h * 100) : 0;
+      const others = entries.filter(([k]) => k !== 'h2h');
+      const denomOthers = others.reduce((a, [, v]) => a + (Number.isFinite(v) ? v : 0), 0);
+      const remainingPts = Math.max(0, scaledScore - absH2H);
+
+      let tmp = [];
+      if (denomOthers > 0) {
+        // Scale other components to fill the remainder
+        const scaledOthers = others.map(([k, v]) => {
+          const base = Number.isFinite(v) ? v : 0;
+          const scaled = remainingPts * (base / denomOthers);
+          return [k, Math.max(0, Math.round(scaled))];
+        });
+        // Fix rounding delta among others (do not touch h2h)
+        const sumOthers = scaledOthers.reduce((a, [, n]) => a + n, 0);
+        let delta = remainingPts - sumOthers;
+        if (delta !== 0 && scaledOthers.length > 0) {
+          const maxIdx = others
+            .map(([, v], i) => ({ i, v: Number.isFinite(v) ? v : -1 }))
+            .sort((a, b) => b.v - a.v)[0].i;
+          scaledOthers[maxIdx][1] = Math.max(0, scaledOthers[maxIdx][1] + delta);
+        }
+        tmp = [...scaledOthers, ['h2h', absH2H]];
+      } else {
+        // No other components; assign all points to H2H to match total
+        tmp = [['h2h', scaledScore]];
       }
       const score = scaledScore;
       const score_breakdown = Object.fromEntries(tmp);
@@ -714,16 +732,18 @@ async function analyzeProbable({ game, probableSide, season, start7, endDate }) 
         headshot: headshotUrl(r.id),
         probable_pitcher_splits: {
           ...buildProbablePitcherSplits(pitcher),
-          hitsPer9Inn_vs_batter_side: Number.isFinite(pitcherH9VsBatterSide) ? Number(pitcherH9VsBatterSide) : null
+          hitsPer9Inn_vs_batter_side: Number.isFinite(pitcherH9VsBatterSide) ? Number(pitcherH9VsBatterSide) : null,
+          hand: pitcherHand || null
         },
         projectedBattingOrder: proj.projectedOrder,        // 1..9 (mode; tie → latest)
         projected_pa: projPA,
-        ops_vs_pitcher: { ab: r.ab_vs_pitcher, ops: r.ops_vs_pitcher },
+        ops_vs_pitcher: { pa: (Number.isFinite(r.pa_vs_pitcher) ? r.pa_vs_pitcher : null), ab: r.ab_vs_pitcher, ops: r.ops_vs_pitcher },
         wtb_percent: wtb !== null ? Number(wtb.toFixed(3)) : null,
         season_pa: Number.isFinite(season_pa) ? Number(season_pa) : null,
         ops_site: { pa: paHomeAwayForGame ?? null, ops: opsHomeAwayForGame },
         ops_vs_pitcher_hand: { pa: paVsPitcherHand ?? null, ops: opsVsPitcherHand },
         ops_last_7_days: { pa: paLast7 ?? null, ops: opsLast7 },
+        site: opponentIsHome ? 'Home' : 'Away',
         score,
         h2h_share: w.h2h,
         score_breakdown
@@ -731,7 +751,18 @@ async function analyzeProbable({ game, probableSide, season, start7, endDate }) 
     })
     .filter(r => ((r.ops_vs_pitcher?.ab ?? 0) >= 1) && (r.projectedBattingOrder != null && r.projectedBattingOrder <= 5))       // filter to projected slots 1–5
     .sort((a, b) => ((b.score ?? -1) - (a.score ?? -1)));
-    
+
+  // Log all hitters considered for this game and their scores
+  try {
+    const pitcherName = pitcher.name || 'Unknown Pitcher';
+    const oppName = opponentTeamName || 'Opponent';
+    console.log(`[Game ${game.gamePk}] ${oppName} hitters vs ${pitcherName} — ${hitters.length} hitters`);
+    hitters.forEach(h => {
+      const s = Number.isFinite(h.score) ? h.score.toFixed(3) : 'n/a';
+      console.log(`  - ${h.name} (slot ${h.projectedBattingOrder ?? '?'}) score=${s}`);
+    });
+  } catch {}
+
 
 
   return {
@@ -810,7 +841,7 @@ async function main() {
     }
   }
 
-  // Combine hitters across all games, filter by season PA, and sort by highest score
+  // Combine hitters across all games, filter by season PA, and sort by highest wTB%
   const allHitters = perProbable.flatMap(entry => (entry.hitters ?? []).map(h => ({
     ...h,
     gamePk: entry.gamePk,
@@ -819,9 +850,12 @@ async function main() {
     probablePitcherName: entry.probablePitcher?.name ?? null
   })));
   const sortedHitters = allHitters
-    .filter(h => Number.isFinite(h.score))
     .filter(h => (h.season_pa ?? 0) >= 85)
-    .sort((a, b) => (b.score - a.score));
+    .sort((a, b) => {
+      const av = Number.isFinite(a.wtb_percent) ? a.wtb_percent : -1;
+      const bv = Number.isFinite(b.wtb_percent) ? b.wtb_percent : -1;
+      return bv - av;
+    });
 
   fs.mkdirSync("api", { recursive: true });
   const out = { date: dateStr, gamesAnalyzed: games.length, hitterCount: sortedHitters.length, hitters: sortedHitters };
