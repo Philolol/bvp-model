@@ -7,9 +7,22 @@ function fmt(n, digits = 3) {
 }
 function fmtOrDash(x) { return (x === '' || x == null) ? '—' : x; }
 
+function getSiteBase() {
+  try {
+    const p = window.location?.pathname || '/';
+    // Local dev serves UI from /web/, but api/ is at repo root
+    if (p.startsWith('/web/')) return '/';
+    // Otherwise, use the directory of index.html (e.g., /bvp-model/ on GH Pages)
+    const i = p.lastIndexOf('/');
+    return i >= 0 ? p.slice(0, i + 1) : '/';
+  } catch {
+    return '/';
+  }
+}
+
 function buildApiPath(dateStr) {
-  // If date provided: api/YYYY-MM-DD.json, else api/today.json (relative for GH Pages)
-  return dateStr ? `api/${dateStr}.json` : "api/today.json";
+  const base = getSiteBase();
+  return dateStr ? `${base}api/${dateStr}.json` : `${base}api/today.json`;
 }
 
 function formatDateInput(iso) {
