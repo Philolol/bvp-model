@@ -8,8 +8,8 @@ function fmt(n, digits = 3) {
 function fmtOrDash(x) { return (x === '' || x == null) ? '—' : x; }
 
 function buildApiPath(dateStr) {
-  // If date provided: /api/YYYY-MM-DD.json, else /api/today.json
-  return dateStr ? `/api/${dateStr}.json` : "/api/today.json";
+  // If date provided: api/YYYY-MM-DD.json, else api/today.json (relative for GH Pages)
+  return dateStr ? `api/${dateStr}.json` : "api/today.json";
 }
 
 function formatDateInput(iso) {
